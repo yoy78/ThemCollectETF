@@ -4,18 +4,26 @@
 news_rss:
   enabled: true
   # Un item est genere par mot-cle. Chaque mot-cle est cherche sur Google News (FR).
+  # Couvre indirectement Morningstar, L'Agefi, ETF World (Amundi/BNPP) et autres
+  # sites qui publient regulierement sur le sujet, sans scraper chaque site.
   keywords:
     - "rotation sectorielle ETF"
     - "collecte fonds thematiques"
     - "flux ETF thematique"
     - "palmares fonds thematiques"
+    - "Amundi ETF flux marche"
+    - "Morningstar collecte ETF Europe"
+    - "L'Agefi ETF thematique"
   max_items_per_keyword: 8
 
 quantalys:
-  enabled: false  # passer a true une fois les urls renseignees ci-dessous
-  # Ajoutez ici les pages exactes a suivre (palmares, categories thematiques).
-  # Aucune url n'est devinee automatiquement : laisser vide tant que non fourni.
-  urls: []
+  enabled: true
+  # URLs trouvees via recherche web (non devinees) : hub thematique, liste des
+  # articles (detecte les nouvelles publications/palmares/observatoires), page ETF.
+  urls:
+    - "https://www.quantalys.com/Espace/Thematique"
+    - "https://www.quantalys.com/Article/Liste?type=ALL"
+    - "https://www.quantalys.com/Home/ETF"
   # Delai minimum (secondes) entre deux requetes vers le meme domaine.
   min_delay_seconds: 4
   user_agent: "ThemCollectETF-Bot/1.0 (+veille personnelle, contact: ybrion@gmail.com)"

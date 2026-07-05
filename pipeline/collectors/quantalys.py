@@ -1,22 +1,31 @@
-"""Collecteur Quantalys (palmares / pages thematiques).
+"""Collecteur Quantalys (palmares / pages thematiques / liste d'articles).
 
-Desactive par defaut (voir config.yaml: quantalys.enabled). Aucune URL n'est
-devinee : seules les pages explicitement listees dans config.yaml sont
-interrogees, et uniquement si robots.txt les autorise pour notre User-Agent.
+Desactive par defaut tant que non confirme (voir config.yaml: quantalys.enabled).
+Les URLs suivies sont soit fournies par l'utilisateur, soit trouvees via une
+recherche web reelle (jamais devinees) - voir config.yaml pour la liste actuelle.
+Chaque requete respecte robots.txt et un delai minimum entre appels.
 
-La structure exacte des pages Quantalys n'a pas pu etre inspectee (reseau
-bloque depuis l'environnement de developpement). L'extraction ci-dessous est
-volontairement generique (lignes de tableaux HTML) : un calibrage des
-selecteurs sera necessaire une fois les premieres pages reellement recuperees
-(cf. les logs du workflow GitHub Actions).
+La structure exacte des pages n'a pas pu etre inspectee depuis l'environnement
+de developpement (reseau bloque) : l'extraction combine deux strategies
+generiques qui ne dependent pas des classes CSS exactes :
+  - liens vers des articles (href contenant "/Article/Consultation/") : capte
+    les nouvelles publications (palmares, observatoires) au fil de leur mise
+    en ligne, utile comme signal faible.
+  - lignes de tableaux HTML (tr/td) : capte d'eventuels classements chiffres.
+Un calibrage plus fin sera possible une fois les premiers runs reels
+inspectes (logs du workflow GitHub Actions).
 """
 from __future__ import annotations
 
 import hashlib
+import re
+import urllib.parse
 
 from bs4 import BeautifulSoup
 
 from pipeline.collectors.base import Item, PoliteFetcher, RobotsDisallowed
+
+ARTICLE_HREF_RE = re.compile(r"/Article/Consultation/\d+")
 
 
 def _item_id(*parts: str) -> str:
@@ -61,6 +70,30 @@ class QuantalysCollector:
                 continue
 
             soup = BeautifulSoup(html, "html.parser")
+
+            seen_article_urls: set[str] = set()
+            for link in soup.find_all("a", href=True):
+                href = link["href"]
+                if not ARTICLE_HREF_RE.search(href):
+                    continue
+                absolute_url = urllib.parse.urljoin(url, href)
+                if absolute_url in seen_article_urls:
+                    continue
+                seen_article_urls.add(absolute_url)
+                title = link.get_text(strip=True)
+                if not title:
+                    continue
+                items.append(
+                    Item(
+                        id=_item_id("article", absolute_url),
+                        source=self.name,
+                        category=url,
+                        label=title,
+                        url=absolute_url,
+                        metadata={"kind": "article"},
+                    )
+                )
+
             rows = soup.find_all("tr")
             for idx, row in enumerate(rows):
                 cells = [c.get_text(strip=True) for c in row.find_all(["td", "th"])]
