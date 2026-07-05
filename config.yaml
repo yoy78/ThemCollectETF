@@ -1,0 +1,21 @@
+# Configuration du pipeline de veille thematique.
+# Modifiez ce fichier pour ajouter des sources sans toucher au code.
+
+news_rss:
+  enabled: true
+  # Un item est genere par mot-cle. Chaque mot-cle est cherche sur Google News (FR).
+  keywords:
+    - "rotation sectorielle ETF"
+    - "collecte fonds thematiques"
+    - "flux ETF thematique"
+    - "palmares fonds thematiques"
+  max_items_per_keyword: 8
+
+quantalys:
+  enabled: false  # passer a true une fois les urls renseignees ci-dessous
+  # Ajoutez ici les pages exactes a suivre (palmares, categories thematiques).
+  # Aucune url n'est devinee automatiquement : laisser vide tant que non fourni.
+  urls: []
+  # Delai minimum (secondes) entre deux requetes vers le meme domaine.
+  min_delay_seconds: 4
+  user_agent: "ThemCollectETF-Bot/1.0 (+veille personnelle, contact: ybrion@gmail.com)"
