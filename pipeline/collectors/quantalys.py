@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import hashlib
 import re
+import sys
 import urllib.parse
 
 from bs4 import BeautifulSoup
@@ -26,6 +27,15 @@ from bs4 import BeautifulSoup
 from pipeline.collectors.base import Item, PoliteFetcher, RobotsDisallowed
 
 ARTICLE_HREF_RE = re.compile(r"/Article/Consultation/\d+")
+
+
+def _debug(message: str) -> None:
+    print(f"[quantalys] {message}", file=sys.stderr)
+
+
+def _page_title(html: str) -> str:
+    match = re.search(r"<title[^>]*>(.*?)</title>", html, re.IGNORECASE | re.DOTALL)
+    return match.group(1).strip() if match else ""
 
 
 def _item_id(*parts: str) -> str:
@@ -69,6 +79,8 @@ class QuantalysCollector:
                 )
                 continue
 
+            _debug(f"{url}: {len(html)} octets recus, titre={_page_title(html)!r}")
+
             soup = BeautifulSoup(html, "html.parser")
 
             seen_article_urls: set[str] = set()
@@ -93,8 +105,10 @@ class QuantalysCollector:
                         metadata={"kind": "article"},
                     )
                 )
+            _debug(f"{url}: {len(soup.find_all('a', href=True))} liens <a>, {len(seen_article_urls)} articles retenus")
 
             rows = soup.find_all("tr")
+            _debug(f"{url}: {len(rows)} lignes <tr> trouvees")
             for idx, row in enumerate(rows):
                 cells = [c.get_text(strip=True) for c in row.find_all(["td", "th"])]
                 cells = [c for c in cells if c]
