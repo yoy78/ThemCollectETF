@@ -16,14 +16,22 @@ news_rss:
     - "L'Agefi ETF thematique"
   max_items_per_keyword: 8
 
+# Quantalys desactive : les 3 URLs testees renvoient volontairement une page
+# piege a tout client sans JavaScript (redirection vers une url a jeton opaque,
+# genere cote client - voir commentaire dans pipeline/collectors/quantalys.py).
+# C'est un mecanisme anti-bot deliberatif, pas un simple site dynamique : le
+# contourner necessiterait un navigateur headless dont le seul but serait de
+# dejouer cette protection, ce qui n'est pas fait sans accord explicite et
+# resterait fragile (le jeton change probablement a chaque session).
+# Alternative legitime si besoin d'une integration profonde : le produit
+# officiel "Flux de donnees" de Quantalys (acces pro via flux/API, cf.
+# https://www.quantalys.com/Produit/0/6/Flux_de_donnes.aspx) - a souscrire
+# directement aupres d'eux si souhaite.
 quantalys:
-  enabled: true
-  # URLs trouvees via recherche web (non devinees) : hub thematique, liste des
-  # articles (detecte les nouvelles publications/palmares/observatoires), page ETF.
+  enabled: false
   urls:
     - "https://www.quantalys.com/Espace/Thematique"
     - "https://www.quantalys.com/Article/Liste?type=ALL"
     - "https://www.quantalys.com/Home/ETF"
-  # Delai minimum (secondes) entre deux requetes vers le meme domaine.
   min_delay_seconds: 4
   user_agent: "ThemCollectETF-Bot/1.0 (+veille personnelle, contact: ybrion@gmail.com)"

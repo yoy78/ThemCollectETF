@@ -1,19 +1,27 @@
 """Collecteur Quantalys (palmares / pages thematiques / liste d'articles).
 
-Desactive par defaut tant que non confirme (voir config.yaml: quantalys.enabled).
-Les URLs suivies sont soit fournies par l'utilisateur, soit trouvees via une
-recherche web reelle (jamais devinees) - voir config.yaml pour la liste actuelle.
-Chaque requete respecte robots.txt et un delai minimum entre appels.
+Desactive (voir config.yaml: quantalys.enabled=false). Teste en conditions
+reelles via GitHub Actions sur 3 URLs trouvees par recherche web (jamais
+devinees) : chaque reponse HTTP simple (urllib, sans JS) ne renvoie que
+~230-240 octets, un <title> vide et 0 lien - un veritable HTML de page ne
+tiendrait pas dans si peu d'octets. Le contenu brut recu est :
 
-La structure exacte des pages n'a pas pu etre inspectee depuis l'environnement
-de developpement (reseau bloque) : l'extraction combine deux strategies
-generiques qui ne dependent pas des classes CSS exactes :
-  - liens vers des articles (href contenant "/Article/Consultation/") : capte
-    les nouvelles publications (palmares, observatoires) au fil de leur mise
-    en ligne, utile comme signal faible.
-  - lignes de tableaux HTML (tr/td) : capte d'eventuels classements chiffres.
-Un calibrage plus fin sera possible une fois les premiers runs reels
-inspectes (logs du workflow GitHub Actions).
+    <html lang="en"><head></head><body><script>
+    window.location.href='/redirect_<jeton_opaque>/<chemin_original>';
+    </script><noscript>This website requires JS enabled and cookies</noscript>
+    </body></html>
+
+C'est un mecanisme anti-bot deliberatif (redirection vers une url a jeton
+genere cote client, valide uniquement si JS + cookies sont executes), pas
+une simple page dynamique. Le contourner demanderait un navigateur headless
+dont le seul but serait de dejouer cette protection - non fait sans accord
+explicite, et resterait fragile (le jeton change vraisemblablement a chaque
+session). Voir config.yaml pour l'alternative legitime (produit officiel
+"Flux de donnees" Quantalys).
+
+Le code ci-dessous reste fonctionnel (respect robots.txt, rate-limit,
+extraction generique liens/tableaux) au cas ou d'autres pages Quantalys
+sans ce challenge JS seraient identifiees.
 """
 from __future__ import annotations
 
