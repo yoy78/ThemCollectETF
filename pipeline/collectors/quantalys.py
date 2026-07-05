@@ -80,6 +80,7 @@ class QuantalysCollector:
                 continue
 
             _debug(f"{url}: {len(html)} octets recus, titre={_page_title(html)!r}")
+            _debug(f"{url}: contenu brut = {html!r}")
 
             soup = BeautifulSoup(html, "html.parser")
 
