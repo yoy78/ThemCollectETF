@@ -1,3 +1,14 @@
 # Digest thematique - 2026-07-05
 
-Rien de nouveau depuis le dernier passage.
+## Signaux faibles (actualite)
+### flux ETF thematique
+- [ETF intelligence artificielle 2026, peut-on investir dans OpenAI et Anthropic - Patrimoine Magazine](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVkEyb3ktaTN1bXdhcVR0LTIxVXg4UjFaTkgxMmZud3VhMmZmdi0tbzFIa1NXX0xxaVdzeVVTQjg1dnhoc1gzTFhmeW9DSXNqOG5kenJQOWhMWFdrWkdpVmNnS29hS0VkSmN4SzBQbjlUSDljanNVd1NGb2JKT005WXpNV2EwenVpalJ5OWNHbHpmc3F4XzZ0clEwRGZPbHVOQ1hJSTFtMWRWeENsYWpTd1Z4V3daaWxfekFIdWpqWldoUQ?oc=5)
+
+### Amundi ETF flux marche
+- [Amundi reste le plus important collecteur en 2025 sur les ETF européens - L'Agefi](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVjdQNTdpWTM2aVJucXpuTktsQ3IwVTE3d3Zrc2hpMWE3Q0xseTFKb1hBX2xPdGY4T1FOR3JLWDE0M1dHX0RNRWduTmpZbjRCY0FsV1k5WEhsbXMtcFNHZ1d2R1ByeGQ1WUtZd2djdTFMbloySks1NHpuZEU2QmpSY2xjMEZFSnV5eWpVNzkxUTIwM2hKcTBIdDNQVVc?oc=5)
+- [En mai, la collecte totale en ETF UCITS a progressé de 35% sur un an - Option Finance](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNDBiTXN5eFVXbjJoTHY4OXp4WjFhMF9TM3pqTVFYRUpBYUhKdV96U3k0Q09qUmFpbVFVVWI1YllGSl9ydGRhc3EzRU94emY0RDlQWUdWMnZmb19uUDhFaGhuOWtuUEl4SEEtVG9KMF84TkFSX05BMVdSN1dWYzdhYk1MYWFHd2JTYmlJdWVTaFNPS2tSYmRsVFozUVRua3dGLW13UVBlcDNrdGFxMThSNXpldWVTRUVrRnNQOGpGOTJwcF9zUXpsUVNkSk9NZjJnOXNGZy1EZXNJR0VtRmlWb0tTN0d4UQ?oc=5)
+
+### Morningstar collecte ETF Europe
+- [Pimco, HSBC AM, BNP Paribas AM : les gagnants 2025 de la gestion active - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxONE4xdXBPNkxNWVhSbUdlTUZxWmpQREJVNFZaR0xTZ05mYkM4TFB0dzNUSGxsQWhrV3dXX01oTTJOdldxcmE5eGg0bzd1eXI1YnZ6TVZ3MmxsdWVpMjlhYzNlMmFYaWt3TXZkamdCa1RXSEN3NW1kb3A3OGNGdkNaV1l0MnNTQ3lQdmhZV0NaWkpqWXNlazhiVm5BcW1PNndCWGxobUZtNW1qaGtsLUR5bHIzaFZDdldNR1J5dDlkZWJ3dWU3NjQtTWxR?oc=5)
+- [Fonds ESG : une collecte en croissance dans le monde - Morningstar](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHk3VU8wMkw3VkRycVU1bmM5ampMaDg2SzZHRXNWZVZLa3JCci0ydWlwSzFJRzZBS2dhZzF3NEFOdlJ1LVpOazlTU2VxU1o3U0d5aVpkbnBvNVk0ZmRWdl9BbHY1Y0hfZVNRYWJ1bWsxZ0d2bjhOSV9Ld3Z0dkhVeXdSYm1rTDRFVDEyUHg4MVVjZTFvSWRsSy0xYjJFTzNKSXlCMWtQT2lDanM?oc=5)
+- [Les ETF européens attirent une collecte record en 2024 grâce à l’envolée des marchés boursiers - Morningstar](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODRPV3NqQURDZWpPUjlUYTAzWk9UeElzU3hkcnFVdFN3ajFSNTBDNUlQWnZ4d2lBNmRuTGoweWllRmZaX3RCamRuNVlPV0ZHZE03YlBidWswSjVRWmtCbUZRNXZwS1dseTVmS0lmd2NoY3N0SmVNQUNNLUhaRE9uOWs5dklhWXZaRFBxb21wMFEyeGdwUV9FOG1iRGRxRVM0ZGthNWNPSmJzMGNEaWN5NjBxWjRmUkhyaFladEJDOUJrQmM?oc=5)

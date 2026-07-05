@@ -201,17 +201,6 @@
     },
     {
       "category": "flux ETF thematique",
-      "id": "05a71f49902f428d",
-      "label": "Les ETF, de plus en plus populaires - Option Finance",
-      "metadata": {
-        "published": "Fri, 26 Jun 2026 07:00:00 GMT",
-        "publisher": "Option Finance"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjNiTVVwenlTTkZ0aWg2YXJNQVZpbC1nM3puWWgxZ2ZBaHplMVNoZ2hKS0ZfLWhPOXRFb29yQjV3OHcwN0dRSENhY2JFN1EtbXRZSElENWRlOV9sZ0QtRkNPWnpoSTVTc3Njb1FCU1ktOW5VRHVleDA5YkwzOG5EV21NMlNSNDU4XzN3S1R6RTdqclNNMVppRQ?oc=5"
-    },
-    {
-      "category": "flux ETF thematique",
       "id": "f08d0bc3b3345979",
       "label": "Les ETF européens prolongent leur dynamique en mai - Allnews",
       "metadata": {
@@ -264,6 +253,17 @@
       },
       "source": "news_rss",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbFlMV0VWd1FkaGJxVG9nQXc4WGFUNzZFbWRib2NMS0s4bXVuSjJXenEtY1kzSEVDMkh1UkxyRTlJV0RZbVNJNVZ5eGtEdGdMQ0dPTGViNE5mWUtQYUhnNks0NU12eFZkRkFWUGlKV280WklueElQVGVGTi1TRm16Zl9GNUlKdGY2M2F0VUZvSQ?oc=5"
+    },
+    {
+      "category": "flux ETF thematique",
+      "id": "fa86bdc096e5910f",
+      "label": "ETF intelligence artificielle 2026, peut-on investir dans OpenAI et Anthropic - Patrimoine Magazine",
+      "metadata": {
+        "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+        "publisher": "Patrimoine Magazine"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVkEyb3ktaTN1bXdhcVR0LTIxVXg4UjFaTkgxMmZud3VhMmZmdi0tbzFIa1NXX0xxaVdzeVVTQjg1dnhoc1gzTFhmeW9DSXNqOG5kenJQOWhMWFdrWkdpVmNnS29hS0VkSmN4SzBQbjlUSDljanNVd1NGb2JKT005WXpNV2EwenVpalJ5OWNHbHpmc3F4XzZ0clEwRGZPbHVOQ1hJSTFtMWRWeENsYWpTd1Z4V3daaWxfekFIdWpqWldoUQ?oc=5"
     },
     {
       "category": "palmares fonds thematiques",
@@ -366,17 +366,6 @@
     },
     {
       "category": "Amundi ETF flux marche",
-      "id": "ca508cf8ad84ede7",
-      "label": "Les investisseurs réajustent leur appréciation du risque – Analyse des flux par Amundi - Allnews",
-      "metadata": {
-        "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-        "publisher": "Allnews"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQREZxaEpJOVZMVkwxUi1DZnBfZW1nUGxSbTJobW5nQTE4N0g3cDJ1RHVSMFNLZE5kVXRod24tZ0dXLUsta0dZdWhxaWU2aGFINjNTd25RQzc3azB0d2RvbjFnUGsyS0U1S3ZvOV9tYVIxMDQ5RG5faGc0ckVjT3RqYzJpTVFoandWYm5feFVrOGJTcmpRa2RUWmVYNGFSZ3NKMmRLdjhTbU0ySEI5aWdXbkNlWFc1NGlyR2JadGYxTUhIVVFweEZGRWRyR1A5SmctQy1F?oc=5"
-    },
-    {
-      "category": "Amundi ETF flux marche",
       "id": "5e0a60d447008f84",
       "label": "Amundi renforce son leadership sur le marché européen des ETFs - About Amundi",
       "metadata": {
@@ -385,6 +374,17 @@
       },
       "source": "news_rss",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0FPbU1zVjA1NU9ZNGhkMG5lVHd3TENzVWhOYTRvUU1lQ3RaNDJmYm1QUUJMUGpwQW05Tjdac1RTb1hKSkJjYk9jU19GRFVTUF9DTVdZNFZBNVRwNWFOc1A5aWIzdjNkUDhhV0VQYlJMdHVoR1JjSVpBTU9tTzVsV3c1cUZuVzFGOFVvelJSQ2VqcUo0ckk0cnp1MVlILVk?oc=5"
+    },
+    {
+      "category": "Amundi ETF flux marche",
+      "id": "ca508cf8ad84ede7",
+      "label": "Les investisseurs réajustent leur appréciation du risque – Analyse des flux par Amundi - Allnews",
+      "metadata": {
+        "published": "Mon, 15 Jun 2026 07:00:00 GMT",
+        "publisher": "Allnews"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQREZxaEpJOVZMVkwxUi1DZnBfZW1nUGxSbTJobW5nQTE4N0g3cDJ1RHVSMFNLZE5kVXRod24tZ0dXLUsta0dZdWhxaWU2aGFINjNTd25RQzc3azB0d2RvbjFnUGsyS0U1S3ZvOV9tYVIxMDQ5RG5faGc0ckVjT3RqYzJpTVFoandWYm5feFVrOGJTcmpRa2RUWmVYNGFSZ3NKMmRLdjhTbU0ySEI5aWdXbkNlWFc1NGlyR2JadGYxTUhIVVFweEZGRWRyR1A5SmctQy1F?oc=5"
     },
     {
       "category": "Amundi ETF flux marche",
@@ -399,14 +399,14 @@
     },
     {
       "category": "Amundi ETF flux marche",
-      "id": "18ee864547c42095",
-      "label": "BlackRock et Amundi dominent la collecte annuelle sur le marché européen des ETF - L'Agefi",
+      "id": "5dc6095f62d3de38",
+      "label": "Amundi reste le plus important collecteur en 2025 sur les ETF européens - L'Agefi",
       "metadata": {
-        "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+        "published": "Fri, 13 Feb 2026 08:00:00 GMT",
         "publisher": "L'Agefi"
       },
       "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVpzSURkMzJtVFhWdkRpNHdSVWZWV29SdWc5bWM4UUJuQ3FINWs5cGlfdmVlWmtqaXQ3Z3Bwa1VkbWJXb2NYRTNXcnZwb1RMOEFUT0FxZjNoQTg0MHdIOHd2QUU1aWJBUjdOUE5iS3hhZHZBa1J0SFV3RXpaemh0aFhaR3NpNGVGWVZMMkdGYmpjQm1xZk1wbmtWZE0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVjdQNTdpWTM2aVJucXpuTktsQ3IwVTE3d3Zrc2hpMWE3Q0xseTFKb1hBX2xPdGY4T1FOR3JLWDE0M1dHX0RNRWduTmpZbjRCY0FsV1k5WEhsbXMtcFNHZ1d2R1ByeGQ1WUtZd2djdTFMbloySks1NHpuZEU2QmpSY2xjMEZFSnV5eWpVNzkxUTIwM2hKcTBIdDNQVVc?oc=5"
     },
     {
       "category": "Amundi ETF flux marche",
@@ -421,6 +421,17 @@
     },
     {
       "category": "Amundi ETF flux marche",
+      "id": "a2962300015e0dd4",
+      "label": "En mai, la collecte totale en ETF UCITS a progressé de 35% sur un an - Option Finance",
+      "metadata": {
+        "published": "Wed, 10 Jun 2026 13:41:00 GMT",
+        "publisher": "Option Finance"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNDBiTXN5eFVXbjJoTHY4OXp4WjFhMF9TM3pqTVFYRUpBYUhKdV96U3k0Q09qUmFpbVFVVWI1YllGSl9ydGRhc3EzRU94emY0RDlQWUdWMnZmb19uUDhFaGhuOWtuUEl4SEEtVG9KMF84TkFSX05BMVdSN1dWYzdhYk1MYWFHd2JTYmlJdWVTaFNPS2tSYmRsVFozUVRua3dGLW13UVBlcDNrdGFxMThSNXpldWVTRUVrRnNQOGpGOTJwcF9zUXpsUVNkSk9NZjJnOXNGZy1EZXNJR0VtRmlWb0tTN0d4UQ?oc=5"
+    },
+    {
+      "category": "Amundi ETF flux marche",
       "id": "26413ddcd5b92cc7",
       "label": "ETF : gros revirement sur les flux - 09/03 - BFM",
       "metadata": {
@@ -429,17 +440,6 @@
       },
       "source": "news_rss",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWEpicFlUcEVRWXNWYy1ONU93ekdmMHI4Uzc1RmtyMzhNYVpCZWp3OER4dUVQRFgyRktrVlV3RUlQb3dRbkc5SlAwNlY0eFlPZW9NdTRqekJ0WGxuSkxEVmpud1Y1RldiRUQ1NFVnSkRHU2c5T0VhRkRQQXRMS0FGbXVxc2NCa3gyOE1sdkUxVDRoWWpIV0c3ZlFEUEdKUS1JcDJhU3dsZWtOakdhSVVIeU1sSnZyLTlqaUdibWFJRHJFZGVpdXJlVUdXRjdkdw?oc=5"
-    },
-    {
-      "category": "Amundi ETF flux marche",
-      "id": "526ddbfef16bddb8",
-      "label": "Top 20 des ETF éligibles au PEA les plus achetés en mars 2026 V0 - Easybourse",
-      "metadata": {
-        "published": "Fri, 03 Apr 2026 07:00:00 GMT",
-        "publisher": "Easybourse"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWZkLWt1VWlabm13N0xYbWVFNmJJd0Nrdm1LX0VoUFBnNVVoazJvVUpuQWtmNURaamN6NVVVMTgxeGJSNmNRMF9MTkQxYUlqRXhDdndLVFRvOHNmX0xVVEVPR3dDUlBGbHBjRXRJVTFjZnBnV0NLV2RhbTBoeTNnaWJvREVfbURJZXNWVHZ6dl9kZG4tSVBILXIxY25mVmg4Qm9LOGtBdXlwOWM0?oc=5"
     },
     {
       "category": "Morningstar collecte ETF Europe",
@@ -476,17 +476,6 @@
     },
     {
       "category": "Morningstar collecte ETF Europe",
-      "id": "6ca2b4d500c162ad",
-      "label": "Performances des principaux ETF disponibles en France de 2025 - Morningstar",
-      "metadata": {
-        "published": "Wed, 07 Jan 2026 08:00:00 GMT",
-        "publisher": "Morningstar"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRjh6SnRKNUFxcm1MYnRNM1A4clByYVUzbENDeWtJcDUteWFMNDlHUjVIcmlxeE5McVVhODZ4VWpzTWQ5bFpNVHNBaHRjNzFOX0lrb0RpZ2RHQU1mX21wcnhWTEZuM0lMQnVsY2VrTEdEZjNvcWRQS0VmTTI4dGlmVk53RFVSaGY3OTRDQUFFXzRYVEZZdktZcFVMWDkzeGdK?oc=5"
-    },
-    {
-      "category": "Morningstar collecte ETF Europe",
       "id": "398c103313fdab71",
       "label": "Les ETF européens ont connu leur meilleur début d’année depuis plus de 20 ans - L'Agefi",
       "metadata": {
@@ -509,25 +498,36 @@
     },
     {
       "category": "Morningstar collecte ETF Europe",
-      "id": "a04fd443af57b383",
-      "label": "Fonds ESG – L’Europe porte un rebond limité de la collecte - News Asset Pro",
+      "id": "f77f0ebee54f015a",
+      "label": "Pimco, HSBC AM, BNP Paribas AM : les gagnants 2025 de la gestion active - Les Echos",
       "metadata": {
-        "published": "Wed, 27 May 2026 07:00:00 GMT",
-        "publisher": "News Asset Pro"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXzNzTDFWa29EN20xZVRwRjQzT2FFaUZFRTFuTFR1dUd6QXl4akZGcV9SaUxwcFJYS1FPc1ZDaThmUzB1OG9OY1NfLVBiUmVqS05LbjF5cFdJSjJvcUdlNFo0eWVNZVBpLWQ1ODk3TjhpMmdRZ3kyeVdscFZKOGJjUGpYZmZjWXpQZjlqUUdLZmVydjFWanNjd0tn?oc=5"
-    },
-    {
-      "category": "Morningstar collecte ETF Europe",
-      "id": "794d6da36071b626",
-      "label": "ETF : BlackRock se fait grignoter des parts de marché en Europe - Les Echos",
-      "metadata": {
-        "published": "Mon, 02 Feb 2026 08:00:00 GMT",
+        "published": "Fri, 23 Jan 2026 08:00:00 GMT",
         "publisher": "Les Echos"
       },
       "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdnBaWHo4Y3E3V2ZNTGhsSXMwZV95eVJWc2oxNno1VTNDNXpGVWRDYUF3ZGo5anExSDNDZmFDNldaTk14UmZaQTVxYVd2d0k1c1ZPT2RBMllyNjBzUWFiMm1xNm44V2w0Tnhkbkl4dGpaa3c3WkNhZXh3aFlWVnRqXzZ1OG5STFhGVG9DSHlmaUo3WGQ3ZndZY3NsLW1OejVDOVpwV3NFc0FfbVo2T0lmRVRDZHFSSVcwRFd4UEZ3MmFXZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONE4xdXBPNkxNWVhSbUdlTUZxWmpQREJVNFZaR0xTZ05mYkM4TFB0dzNUSGxsQWhrV3dXX01oTTJOdldxcmE5eGg0bzd1eXI1YnZ6TVZ3MmxsdWVpMjlhYzNlMmFYaWt3TXZkamdCa1RXSEN3NW1kb3A3OGNGdkNaV1l0MnNTQ3lQdmhZV0NaWkpqWXNlazhiVm5BcW1PNndCWGxobUZtNW1qaGtsLUR5bHIzaFZDdldNR1J5dDlkZWJ3dWU3NjQtTWxR?oc=5"
+    },
+    {
+      "category": "Morningstar collecte ETF Europe",
+      "id": "5538d15ffb365461",
+      "label": "Fonds ESG : une collecte en croissance dans le monde - Morningstar",
+      "metadata": {
+        "published": "Thu, 10 Jul 2025 09:19:50 GMT",
+        "publisher": "Morningstar"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHk3VU8wMkw3VkRycVU1bmM5ampMaDg2SzZHRXNWZVZLa3JCci0ydWlwSzFJRzZBS2dhZzF3NEFOdlJ1LVpOazlTU2VxU1o3U0d5aVpkbnBvNVk0ZmRWdl9BbHY1Y0hfZVNRYWJ1bWsxZ0d2bjhOSV9Ld3Z0dkhVeXdSYm1rTDRFVDEyUHg4MVVjZTFvSWRsSy0xYjJFTzNKSXlCMWtQT2lDanM?oc=5"
+    },
+    {
+      "category": "Morningstar collecte ETF Europe",
+      "id": "d87f10b7a5b62720",
+      "label": "Les ETF européens attirent une collecte record en 2024 grâce à l’envolée des marchés boursiers - Morningstar",
+      "metadata": {
+        "published": "Thu, 23 Jan 2025 08:00:00 GMT",
+        "publisher": "Morningstar"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODRPV3NqQURDZWpPUjlUYTAzWk9UeElzU3hkcnFVdFN3ajFSNTBDNUlQWnZ4d2lBNmRuTGoweWllRmZaX3RCamRuNVlPV0ZHZE03YlBidWswSjVRWmtCbUZRNXZwS1dseTVmS0lmd2NoY3N0SmVNQUNNLUhaRE9uOWs5dklhWXZaRFBxb21wMFEyeGdwUV9FOG1iRGRxRVM0ZGthNWNPSmJzMGNEaWN5NjBxWjRmUkhyaFladEJDOUJrQmM?oc=5"
     },
     {
       "category": "L'Agefi ETF thematique",
