@@ -1,11 +1,8 @@
-# Digest thematique - 2026-10-10
+# Digest thematique - 2026-10-11
 
 ## Signaux faibles (actualite)
-### collecte fonds thematiques
-- [Les fonds thématiques moins populaires en France - Morningstar](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWRJbkg5ZDhzMXhtZHAxR0Y5VW1pTlNUQ2lnX1J5ZVNSTFNwb2ZRX0ZLSktUUjlaczR0aXVkOHFFX1d2VXR3WkRJdGhBa0JjV0VyQnNzYmJLOXYyTWw4dDdlSVhxTmZWajgtRWVWLVNCR3ltd0pCanhnVm9oekhsOTdiSHRLVVA1NXNCV3puZVlOUQ?oc=5)
+### rotation sectorielle ETF
+- [Pernod Ricard parmi les plus fortes hausses, la rotation sectorielle s'accentue - Option Finance](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT3o4dnBrUkdtNll6SXFVMXVuZzBoZ0hGTHFENExwVUxBeVlkODJRNTJPdmRjVTRIX2MtYXRNcnc1Z0xtRktfbnU4azNfRWR4VVozOThNelpMQkpWSHN5dTVUcTlDenpjMXN6LTg0UnpuQlZxUVlGYlJxaG02S0pEdGNWaXFKUDVFMDVBcUdxcE5uZzl1Vk1qb2IzdVBUbVlhTF8wX203THh2MkJmT2I4OUZuWlBJYm5EZjE1cndpb29HZG5td0JPSi0xNTNVLTdjNEE?oc=5)
 
-### flux ETF thematique
-- [Investissement thématique : la nouvelle cartographie des méga-tendances de WisdomTree - Option Finance](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaWpiNENUVDhPc3Q5UWU2WFhsSkYwdDZ6c0R1WGRycmR4dWduSVJLSUd3X0pkaU9YR1NwaWd1R0lFOE5jdlNiVElqaUJnQ0l1YTJzWXczYU5OWGNQQmxYcWl0VnMzOEVFYzhBYXozSGRVZVJPY09SUHZ1SnFvN2lON2NfR250SUw3VGxrSjNNSEdRTU1JalN0cHNoa2VfUlBQYm5uVXRIUG0xaXQyUDhaOHM3bFE0WnFJTHRRajNOSFJDWjBBQlFjRFo1QlZ0bUlfWDBlaVdwLUQzUVQzTlRNWmVpdGQyS0I5RGl4RlJB?oc=5)
-
-### palmares fonds thematiques
-- [Les 10 ETF du secteur de la défense les plus performants en 2026 - Morningstar](https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1RGVW1GYTdTWVk3OEUwX1B6Nkp0bFNwWkMtVEVjc0lZMURTaTc2dV9CWFlFTUtHd1hzMmlTUnA1MlJxdjQzV3BONnVDVVBBV0pxWDlHdXV2WTZjLXVLb3poeEprYU1pSElackg0S2ZJLTNJTUNFTHlmVEt3NFk5M1hiZ2lqQU1LcXZsRGI5d2dVZW5aeGZLVjk0ZTN2eFNtTDFR?oc=5)
+### Morningstar collecte ETF Europe
+- [Les ETF actifs vont-ils conquérir l’Europe ? - Morningstar](https://news.google.com/rss/articles/CBMihAFBVV95cUxORTZDc1FmZlB0cGk0bldsOUJRYWRYQ0h0V294YnlYR3ZjRmJUYUdXM2N0OF9xY1RsXzJ5cFhFQkdKNWFUbVN0bTRjVFh1SERoX0hmWXhuQUp6bHJQdGVkN2FfbERvZ2dhc0lva2t3UHY2N2ZjNTJ2Q3N4XzFJUkdrLXZwOXI?oc=5)
