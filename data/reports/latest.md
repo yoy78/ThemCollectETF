@@ -1,8 +1,9 @@
-# Digest thematique - 2026-10-11
+# Digest thematique - 2026-10-12
 
 ## Signaux faibles (actualite)
 ### rotation sectorielle ETF
-- [Pernod Ricard parmi les plus fortes hausses, la rotation sectorielle s'accentue - Option Finance](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT3o4dnBrUkdtNll6SXFVMXVuZzBoZ0hGTHFENExwVUxBeVlkODJRNTJPdmRjVTRIX2MtYXRNcnc1Z0xtRktfbnU4azNfRWR4VVozOThNelpMQkpWSHN5dTVUcTlDenpjMXN6LTg0UnpuQlZxUVlGYlJxaG02S0pEdGNWaXFKUDVFMDVBcUdxcE5uZzl1Vk1qb2IzdVBUbVlhTF8wX203THh2MkJmT2I4OUZuWlBJYm5EZjE1cndpb29HZG5td0JPSi0xNTNVLTdjNEE?oc=5)
+- [Pernod Ricard en tête du CAC, la rotation sectorielle s'accentue - Boursorama](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ21jT2ZnV1hGbDlXZUxkdDJNRm5rdUU5RkVtQ1VXX0VrN3BmTEZheG5KZVBURk90eHk4LTc2YlJsR3VGNktYMEpOVXY0SnROY2ZEbWs3N1R6eUtfdFJXSnN6SGFMbUFUMU5EQ2FFVkQtazdsdnFlZGg3SkpMaE9JWW5uOHhHUUhtMUJnVl83T0kwZlF0MUVxdXZmZXVCSXZZZUtESG0xMXB4bnU3QnZ4N2FGM1lXYkwzb2NWU2lJZGZtVDF6NzhaVXJ2SXRqMVlGY0kteEl2OUTSAd4BQVVfeXFMTmE3U29qSHlMVDZxTFVLTEIyUVFWbjlMRHN5aENZUnMzcFVZYndkcEtfVXhRbXJxblJ5bU9oelY0S291azRpNzNBdTFHSk4zQnp6a2JqMmtiLWw3SVhJMy1MRmhYWlhWZExxeTRtcjN0RGd3aFVCVWtCWG5OTXNCcjlRS1JVcE9keXJFd0dKSDItZERVUjM2SWNrOFBlVU9LWkZjajFQUnJIbjZhZkNDZ3U2NVlzWWRPa0lkV1VJaXZZbGtBOURXRndyMGw3WmRPS05CZzRPdDZraHJ1c01B?oc=5)
+- [Fin de la bulle de l’IA : la grande rotation a déjà débuté - La Chronique Agora](https://news.google.com/rss/articles/CBMibEFVX3lxTFBQOVJRZ1VMT0o3ajdlX2JNLUJENzRCWENiaEhWejlvLXpfdkVNZ2kxOFEtWlhqWUZIOVRiY2ZybGpBek5zTnJMZVpYbEFwak10TmZBbS0wR1lsc0hPcDJKaUZmRTRJcDZXdlNGZQ?oc=5)
 
-### Morningstar collecte ETF Europe
-- [Les ETF actifs vont-ils conquérir l’Europe ? - Morningstar](https://news.google.com/rss/articles/CBMihAFBVV95cUxORTZDc1FmZlB0cGk0bldsOUJRYWRYQ0h0V294YnlYR3ZjRmJUYUdXM2N0OF9xY1RsXzJ5cFhFQkdKNWFUbVN0bTRjVFh1SERoX0hmWXhuQUp6bHJQdGVkN2FfbERvZ2dhc0lva2t3UHY2N2ZjNTJ2Q3N4XzFJUkdrLXZwOXI?oc=5)
+### Amundi ETF flux marche
+- [Troisième trimestre record pour les ETF et forte demande de diversification – Analyse des flux par Amundi - Allnews](https://news.google.com/rss/articles/CBMiygFBVV95cUxPNFgtd29TLTM3NFRnd1RmamJrVjUxV3FIYXllZG5hT18yTkVmOGpRYldURDYxWjhWaXBIZDl4OENXOFgyaDhCaDNFb3BjZ0RYTHZHdnVrQlEwWTB4VGdLR3E2V3JRTVhkY3hFQUZmdDF2dWpvUWM5dDZGRG43NURMM2V4WmR1TFAybEZ2T1ozNjQ3MEJhMThXeC1kUFBwTDFicl9qN2RjU1dzSnliTy0xbVNLQ0tVSGxWMWc5d3hNOVFRaHhyZVRCWnlB?oc=5)
