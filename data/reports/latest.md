@@ -1,18 +1,14 @@
-# Digest thematique - 2026-10-13
+# Digest thematique - 2026-10-14
 
 ## Signaux faibles (actualite)
-### flux ETF thematique
-- [Amundi renforce son offre d’ETF thématiques - L'Agefi](https://news.google.com/rss/articles/CBMidkFVX3lxTE1sMmVSVWtYMkFvQlAxdE94OEZkVGR2Z2ljbm9QYlotR1c4V0Q2YTFTRVpHSUxoNmpWNHVWNHd4cHVKUGU1MjhlZUpGNzR0SVZiUWt6RXYxajhwWXBTSUhMNlhZSHNfU280NWR3YWxWMEJLZzU4VVE?oc=5)
-- [Amundi renforce son offre d'ETF thématiques - Boursier.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPak1hLTRwb3VFQ096eG1vUERxRWJGUWlLTG9iMzYwcTlGTXd2elNCWFhnaHBFYzFRSTVfTFpUVllZekdyUFItb0c1NWZTeWhad3VxSEwyaWtaSmVQSmVxOTJ2Um5QU3FlWWdYak9zbFR3S2I4OEU3bzVzSWNkS3V5RGNnaWtMXzNoaktUN3pzOEREN1cwRFNXQjBQMldzNHRxemwyMDlDU29rZ2c?oc=5)
-- [Amundi lance trois ETF thématiques axés sur l’IA et les technologies du futur - ABC Bourse](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0poekpjc0dPbHlaamVNSzl5SUpxUUFVczI4d180WXVRdi1ZWWdwVTZtOG9wVTg1ZzlneWFjX2N5S3JXLUNRSkFSRGxYZjI1dE1fUUhwb0htaTRqX3lBWWJFWGVjMENDSG9BMDYzdTZzM25mLW81VUEwYWhUbFBFYkRzajNYVkw1R3I1QllvWFYtSDYzOTdGUHZLR3RuUHpCTGg5VW9VVEVGODA1XzRmV21CSGo4dkF4?oc=5)
-- [Amundi lance trois ETF sur le spatial, les métaux critiques et l'électrification - Idéal Investisseur](https://news.google.com/rss/articles/CBMizgFBVV95cUxNeE9aS25UQXFHUnZDT19hY1Rnakd6a29rSFR3UXJrNlFHS0dzdV9FQWZ1RWpUNWxlbTFvY2hRLVAwa3FldkMwaTdkXzVmeGxBZ0sxcGhNQXlpbzFmeWRXeFFtSHhOb0ZYX1JKVENUU0EzYVpSd0hUNDNmU0QwRzh5eGtBQUc2cmFQUFRNM2FFXzAwcDMxOThsZnExQ3NOc1dDclRNZnJKUG9LMVVUc0ZrY2o2dk1PdVBKTW8tYlRfckNHUUgxQVZpMHBaOTlWdw?oc=5)
-- [Amundi : renforce son offre d'ETF thématiques avec trois nouvelles solutions - Zonebourse](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZm5NbUVmdzlsOGpOZjJpV21iMDFrZmJMOVMwOTFwSTU1NGZvbnNhZ3l5bFh1NEdxNHZsYjFjY09BTGVkZkFiMnFMRFNtMUtxR2FaRndRSnhnOU9ieUdzdldvaHo3STQ0N05SR0J1SEctN2w2M29QLW1XRHVfRkJJNjQwM3oyb0ZpRDQ4LWRfTW9maEk4NHlVOUhGbi1iQUpJWlAyb0Y3OHV6WmlKa3hpTTF3Z2tIUnVDSk80V1NxZHk5cXBFaFMwZzYwZ3M2YWZJ?oc=5)
-
 ### palmares fonds thematiques
-- [Placement : les ETF raflent la mise - Tout Sur Mes Finances](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTkg4S3JocHJhSUtvMUZUUGdBY3NnQWgyQ0ktRHlwTUw4LXc1cTlaMUNrajlEMXFKZG9zSUNCZ3Z4RzV3VHg5amRHZDY4RE92dEVNdG5pdnVXS2tTYWkwZ1hoWjY4WEg2djh1Y2VGTXhwN01QWnI0dEVOOUZVeFFNSEh0NzdoZzAx?oc=5)
+- [Palmarès 2025 : le top 10 des Fonds Actions Climat - Club Patrimoine](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKNkJWV1Q1QmMyeExrbzhkdmJNSXdfc2pVRU4zMDgwSkp3NnZiSm1WR3pwRkh3Y0pLY1JldXVJM3oxOEQtNVVadTM0aHAzRHVRMG53aXNYd2otVFcweHZ6VXZGb0I?oc=5)
 
 ### Amundi ETF flux marche
-- [Amundi lance trois ETF thématiques axés sur l’IA et les technologies du futur - ABC Bourse](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0poekpjc0dPbHlaamVNSzl5SUpxUUFVczI4d180WXVRdi1ZWWdwVTZtOG9wVTg1ZzlneWFjX2N5S3JXLUNRSkFSRGxYZjI1dE1fUUhwb0htaTRqX3lBWWJFWGVjMENDSG9BMDYzdTZzM25mLW81VUEwYWhUbFBFYkRzajNYVkw1R3I1QllvWFYtSDYzOTdGUHZLR3RuUHpCTGg5VW9VVEVGODA1XzRmV21CSGo4dkF4?oc=5)
+- [Amundi : le marché des ETF UCITS porté par le dynamisme des actions durant l'été - Option Finance](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdFhRMEI1ckpNUDJyM2xhaTJIc0lGNENtY281MG1GUkNNMkpJb0gxWC1CV2JhX3hmd29Lalc1VmN0eVdLcEstMVpjLTl5dnM2MFVRVkxQYzhoYkNWbEhBWjhxVUd4SnJhN1BPZjhMVDF1UDBYRmhIN1lVd295LWZaOWx0TE9Da1RwT1BFdVJjd1M4ai1GdkhUVTY4X3BueHFQRXVXUklZWHE2VFdYQ1M3THBTeVZlZnlHVWN1QmtLZEx3MGRGS3dnZF9SZ2pkcWQySlNWQng5ckQtY1NKQURmSnZ3T2NuZw?oc=5)
+
+### Morningstar collecte ETF Europe
+- [Pimco, HSBC AM, BNP Paribas AM : les gagnants 2025 de la gestion active - Les Echos](https://news.google.com/rss/articles/CBMiygFBVV95cUxONE4xdXBPNkxNWVhSbUdlTUZxWmpQREJVNFZaR0xTZ05mYkM4TFB0dzNUSGxsQWhrV3dXX01oTTJOdldxcmE5eGg0bzd1eXI1YnZ6TVZ3MmxsdWVpMjlhYzNlMmFYaWt3TXZkamdCa1RXSEN3NW1kb3A3OGNGdkNaV1l0MnNTQ3lQdmhZV0NaWkpqWXNlazhiVm5BcW1PNndCWGxobUZtNW1qaGtsLUR5bHIzaFZDdldNR1J5dDlkZWJ3dWU3NjQtTWxR?oc=5)
 
 ### L'Agefi ETF thematique
-- [Amundi renforce son offre d’ETF thématiques - L'Agefi](https://news.google.com/rss/articles/CBMidkFVX3lxTE1sMmVSVWtYMkFvQlAxdE94OEZkVGR2Z2ljbm9QYlotR1c4V0Q2YTFTRVpHSUxoNmpWNHVWNHd4cHVKUGU1MjhlZUpGNzR0SVZiUWt6RXYxajhwWXBTSUhMNlhZSHNfU280NWR3YWxWMEJLZzU4VVE?oc=5)
+- [Les ETF thématiques séduisent à nouveau, portés par la défense et l’IA - L'Agefi](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVjRybDEzQVdRdzFGVnRWNml6SGJWTEZOYm5VQlo5b2E1Vmc4Tk5uME55ZUJmYkFFNWtoTnctZTZPTmc0NjBwdEJIZWRQY1BmeHJRX3hhWUlNSEZyZHBlaGdJRmNBY2ZvZExFUDUxV3hra0VQQTNrTWZKbTM4X2hGbGU1ZXRPMDMzZ1U3SUZlZVVwNTJQRVdEZA?oc=5)
