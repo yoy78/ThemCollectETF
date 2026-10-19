@@ -1,19 +1,24 @@
-# Digest thematique - 2026-10-18
+# Digest thematique - 2026-10-19
 
 ## Signaux faibles (actualite)
+### rotation sectorielle ETF
+- ["Rotation sectorielle et prises de bénéfices, les marchés marquent une pause” - Club Patrimoine](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZbTZEVUxNa0p1b09nSXJyaUFpMVJCMHV1RnpMWFJPeHNIWmNOc05mSzdBVVJ4RV9ydUVyekc2dXExbGk1Y0E3OGZZMVJmOEwxNC16cE82YTJ5ZXJjdTUwd01SZw?oc=5)
+- [Devenir millionnaire avec ces actions IA (pas celles que tu crois) - Graphseo Bourse](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmxVYjltbDkyMExNTGhBWndBTFFIa1JUUUN6bjMxWEhWU2ZTX21ZbGZaZXQ0dFdtbFNKWGdXQ1l2SmgyUUZzVTczUHRMdjRXZEh0WlczNWJZWTFmOGpqX08xME5WczBfdlgyZ3hYT3FlSU90dGJGa3RuNWNXbHJQUmZkTlJ5UUNZNjVhNDc5b0xxWWhQTGc?oc=5)
+
 ### collecte fonds thematiques
-- [Investissement thématique : le panachage réduit le risque - BforBank](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3dnbEdURHhFVFBGZzFPTUdIWUZWOW1uZS16Q0VRSnFCb29YdUJCdG1UbDRIZ09paU5ub1ZvY3hsTzJFLTkzLVc4bGJyNE5kUU1BM2NjUE9HZ3A5Nkg4LVNKMnEzODFnWFBhdjllYzI3d2dkYkxYeEpCSEpSMjlISG9nUHozc2VuODRicjdqOG9pZThnYVBBQkNwZFUwZlJmeHc?oc=5)
-- [Jeremy Schwartz (WisdomTree) : «Nous allons être plus agressifs sur les lancements de produits - L'Agefi](https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUVNQlB0OHcxWUhLVHZoeERvYUxnMUZia3dsbXdMb3Vfa05UWFJOVFZiRjl6QUJIRkRPUlpYSVIxZmxjbk1GMlhsWGMwMUhROGxXbE1DcGRkVGNiNmdpREx0S1J4TzNvNExFa2pLcjBTNGN6MW16SHpUQUY3NEhVYkJ5V0I1QVJEZGNCUmdnd3R0RE8yRkN1MUR6QXhEVFg0aENtWDhwUVkwTlBNaktFYWhESkZOOU9zdThaQUhNc0RlZVFhaVZLUldFanFKYzA?oc=5)
+- [Réallocation de portefeuille : le pari des ETF thématiques (VanEck) - Option Finance](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTjJ2b2xZem4xWnlzMzFlTHc5bk11LUdjeEVRUHNyREZ5WWtsc0pIR0dLX3hRenN4STdxb0pvcGpBM2stVjlqLUk2V2hiTjFJTDRkY0VIMlctdWVPenNhLXFteHhFNHBIVkJIek9oSEMtLWpEZmswYzl2MXMzV1FnZTBGLWdEUHNKR04tSUtMTGdWcVdBRGFjYXV4bWQ4bEFlX2xqODFmYWtaWmpCVzRRWHhDa2VsYlRIeXNlOHY5MUEyV2F2SFFwbExYdUhLOGlZYzZr?oc=5)
+- [Pourquoi investir dans des fonds actions thématiques ? - Option Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWxwc3JScGJHcGs2N0Y2SFE5cV93cUlKNXBNSS1lR29kbzlaVW1IN0c2bEhoVjRJcjRKY28yUlFFUEpSQktzTzZvcFFiSEdiTVpJVW9GZzJOY21Cblhnams4YmdrNUtDTDR4NllXdGhwcmN1Y0lBOEp4YUE2MDBCdnlScTVEcEF5OXY0QjVzYTNWd0trMVVsbGJGcXdCMjRTOHc?oc=5)
+- [Convention ANACOFI 2026 : nouveau lieu, nouveau format, nouvelles règles... découvrez tout ce qui change le 9 avril - Zoom Invest](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTlhIYlJGTTlta3lJSC1qT3ZjN2RMWGdtMnFudjByR2Y5S0EzRHBGZzJEdXNDb3l0RzkzR1h6RUQyZkFZbmNSUnFEakQtRDJtTV9BM0ZHdl82MkQwYWZ5M0pydjFCR0E4ZlQ4a3RZdFNya09BZ3JpUEVNUENDTnByRE5jSDloQXB0YzhDdWZGenR2MWExbTVPSnZVSDlGQmVRWlpRTEpaLThreUVNNWV4ak1RRUExSHFzT0t1cWhKd2d6eFQ0anJUbERGOU5SVEk0cm1heXVwNDhaZTRWTEo5NC1jZVpCSDg1cWs4MVczUGJ5R1F0?oc=5)
 
 ### flux ETF thematique
-- [En portefeuille : Quels ETF thématiques dans le contexte actuel ? - 16/10 - Orange Actualités](https://news.google.com/rss/articles/CBMixAFBVV95cUxQbldpYzFtR3RSN0RoX3NFQWp1ZmItSEw4WEhTdjNMSXdJQVNyWlEzeWdKcFgtVTktSWV6NG00Zlg3RGpFU1Z6bUFNR0k5TDh3aTZtSmFRMTV2VTlSWlJaRlY3c0lxMGY1LUo5RFVna090U0I1Snh2WGlpWWZxN2tZTENyb014Vk1HamUxM1JoVzdDNFIyQW9YRG5fV2YwYWV5eUNGRjJ2bkZiQ1Q0akk0RUZxektXWVhqSnNiQVpTV0RENTNL?oc=5)
+- [Réallocation de portefeuille : le pari des ETF thématiques (VanEck) - Option Finance](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTjJ2b2xZem4xWnlzMzFlTHc5bk11LUdjeEVRUHNyREZ5WWtsc0pIR0dLX3hRenN4STdxb0pvcGpBM2stVjlqLUk2V2hiTjFJTDRkY0VIMlctdWVPenNhLXFteHhFNHBIVkJIek9oSEMtLWpEZmswYzl2MXMzV1FnZTBGLWdEUHNKR04tSUtMTGdWcVdBRGFjYXV4bWQ4bEFlX2xqODFmYWtaWmpCVzRRWHhDa2VsYlRIeXNlOHY5MUEyV2F2SFFwbExYdUhLOGlZYzZr?oc=5)
+- [Flux ETF: "L'été a été très positif", Benoit Sorel - 07/09 - Orange Actualités](https://news.google.com/rss/articles/CBMitwFBVV95cUxORGFOSFhvSDJ5ZDJvR0xrMEFRM1o2VW9lZzJlalEzalRYMVRyd0RKNmZRTnVtcTU0OVR4YVRldzd1VDZiLU9IZ1RRWFJ3WmpUSi1CWE9ITmlfTldVYWVGbWhoWm1ibkowRnVNb0Q3YVRzaG1CbkpZQWJvVTNQR1ljRXF2WVlxZ0hzSmtkNjZZSGJZcTltOVpBNEN5R0ZGUUtxNnFlNlFvZlJuanNXc0xUb2k4S2tOVjA?oc=5)
 
 ### palmares fonds thematiques
-- [Résultats semestriels 2026 : Forte croissance des verticales deeptech et accélération des investissements - Yahoo Finance France](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzE3UEFtVUlwb1ROOU9uN242ZE1pWm1La2pKWWxSTFhIeG16d2RBVG9xU05HSmpFbTdEMHV4RjVjekh0YllyNTczQmJBbG9pX01CNmdoM0pUeUduMTJXMFRtM1lmcExBaGh4Z2oxYTFBYVRPVER2UTF6YkVBWWdxdXFlX3RKbVRRWW1MUDUxUy02STNuV2VpRzdNTWNMS2FVSnNuTU1R?oc=5)
-- [Palmarès 2025 : le top 10 des Fonds Actions Climat - Club Patrimoine](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKNkJWV1Q1QmMyeExrbzhkdmJNSXdfc2pVRU4zMDgwSkp3NnZiSm1WR3pwRkh3Y0pLY1JldXVJM3oxOEQtNVVadTM0aHAzRHVRMG53aXNYd2otVFcweHZ6VXZGb0I?oc=5)
+- [Fonds thématiques : La tech reste un moteur puissant de croissance et de souveraineté - Option Finance](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMEkxWm8za3VnY2U5Z0w3TnZOX2NQRWFoblBqMEFvbEVDN1Ita3Z3ZVNERTRlRWxweEZldWZBMVJUS2REbzVFZk5WZUZDTjBtMWJsUThpTHY4UFlLelpGRFQya0dhZXVtc1J4aXZ1dEtjN0I2QVE0Mk1lMWVKTW04MnRVcjVmRUprc1psSjluWUlGYXhnaUxPaW1pTHUydDZyM1ppa3pVbExFTk5UdzFnNl9zR28xSThDQUpnd080WW1ZU3dtblg3SXJJRUlOT2JMblpRejMwNXdLSnM?oc=5)
 
-### Amundi ETF flux marche
-- [Rebond du marché des ETF en juin – Analyse des flux par Amundi - Allnews](https://news.google.com/rss/articles/CBMitgFBVV95cUxObHFPdl9BTFRCNm51YWhGRndiQXoxUUN0ZjdLZEVqSDhkUVgyRm9SRzctQ25FNjUwS0FPQkpUWml3TzRadWNzQlltdDk3MXFlUS1IXzlBZGZ0TDktQWRZUjJRWGloVTdnV0tCRXROOE56WC16U1hBX3FFNkxUQW9wQktZSnpub1Qxb3RRcHA4MC1nSk14TThrZGVzQ2lwc3dYT2Y3ZHU3UXhXNWtCMUU3LVFyTnRFZw?oc=5)
+### Morningstar collecte ETF Europe
+- [Les ETF européens ont connu leur meilleur début d’année depuis plus de 20 ans - L'Agefi](https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3NxeHhyY0VILTVZc3N5amdUOUlsc01NZnFWNkNYSm0wd0lsbkdKWEVYWmNQdUtFNjdSVVB0dDY0U1JOY1VTQ3daWldMSDl0Vl91d0duMkVOUnhnNzE2SDFhNmw1NU5fcmluVWVDTGtqNnkyVjB6UVNDdkJEa3F5aVVNUjVORU1mWmwybFN6dTlPeXIwWkZELW02SUtrVkFCX0dv?oc=5)
 
 ### L'Agefi ETF thematique
-- [WisdomTree rejoint la course aux ETF spatiaux en Europe - L'Agefi](https://news.google.com/rss/articles/CBMihwFBVV95cUxORTloaUFJMzIzUW16RHFQLUlLU0FVcnFnNTJPNnh3cUVpWUpzVl9VXzR2WVB2SXJYNjNIR3NhZTlWdmNtWmtJX3BXVU5nSi1tdUd4Tk44ZDktb2d6UTJSU0xwblZYc2N0Yndyd1p6Z0w2N3lIdjlWai13Z3JlekxkS3BkMGpuM0U?oc=5)
+- [WisdomTree dévoile un ETF sur l’ensemble de la chaîne de valeur de l’intelligence artificielle - L'Agefi](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0loZnBLTU1ueF9zMk92N0RCZjZ5SG1jalViUVcycFM4bkNYNVpIMmM0TGh5cVM5ajEzUWZhdnlIY3dMaXZHYkE0Mzk5bjRwVUtNc1Azb0dYOWZjYTkzcnZFbEY4VW9vVWhCdHJ5TzhBZkZ4amt0ZmNqcDhOZklIWVlfalFaY3JhcFJJN3k4REczRnVJTWUyU2dhQ2d6RXVTTDlnSGl3eFhRNXFMNVJlUV9LNTNvYXRy?oc=5)
