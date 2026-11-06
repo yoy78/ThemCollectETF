@@ -1,25 +1,14 @@
-# Digest thematique - 2026-11-05
+# Digest thematique - 2026-11-06
 
 ## Signaux faibles (actualite)
 ### rotation sectorielle ETF
-- [La rotation sectorielle a-t-elle débuté ? - Les Affaires](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzNCWmxzY0R6ZTlwbldPN2tkZmZsMjBOS1Ewd0swa2VqT2E2U3hPamRJemZfWlM5TU9FTGUzS3AzQmszenhBcjlPTTlUblVfc2tjMmJXaGtWdC10Um5UaGhScmxxZnFvdEFmSUpvZ1E4WHF4RE5BMWpFd1drR0NPMQ?oc=5)
-- [Résultats solides et rotation sectorielle dopent les objectifs pour 2026 - Paperjam News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkxPS1JMa1JXWHk2aHBZa2g0eGpDRzNwS3MzVEVtQ19Cdm90UnZaOXBjVDhoSnU5MjQ0UjdBSDdFdmJoQVhoQXo2cmQzZTdiQWVvaVQxT08yTU5SMzlHUWZBYkNPUkZWbGdoXzIxckxyd1VxandycFFaRHlfUm9GeXZiMnBBcS1lZ1poU18xbDlldVNWSDRNVy1qZkdpSEE?oc=5)
-- [Une rotation boursière est-elle en cours ? Ces secteurs surpassent la technologie en 2026 - Morningstar](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQUo2bkZCb1B0eVNOR1FmSHlxcDVRUHQwMnc0MENtN3pjMGNDdEdQaE10T3p2M2RqdGVLak1qaUk2MHlYMFJBZzdxczFUSTA5M3h3SWNlVmRSdHpGbmRBZURYN3Z1MjlwT1BMSWVLYWFhNnF0NUNHSEVJSUpKZ1JYNVhvWXM1YkVWbHVKSUUxN0JjTHVHUnkzN29kcUZaSjQwcWpzLUtOdkVhYzlnazFCN2FvVmtvR0tIS19yb2VNbkxkcm0yTXkw?oc=5)
-- [Cac 40 : Cette «rotation sectorielle» qui porte le CAC 40 (+0,8%) depuis l'issue des élections aux États-Unis - BFM Bourse](https://news.google.com/rss/articles/CBMigAJBVV95cUxObWFqd1MwaENZRklsQjlqN3lTVnJUV2hxakJsdXZuNWh5REh3b3hMb1hQWm1sZjc4Zmc1bVZKWXlIamM4aGtreWJVRFZJb3VRLUhiMi01ZURxdDAtVjNJNmtHd2ZwUWRCeHpRV1lNOExRRGNSOTI2VDVpMHZmYWJTamhJM0hNTDcyXzBpLWxkdWxLSjhZa2VXc1RvdmpEOHExOTdhU0dZQmtEV002S2NYVzZ3QU9GZTZwQVl0VFJmSjJQVVpGWEZyT1o2V1BOcDRoNVNBa1RiX1JfLWV3b0RTTl9TNWFnY3FCaGJqWXB2OS1zT3RHZHNBcVVtdHhpeWVS?oc=5)
-- [Le Dow Jones surperforme grâce à la rotation sectorielle, IPC crucial ce mercredi - Investing.com France](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcWVUUzVYWmYtZjNUUWk2a3hMV1RqMGVIMTJTT0QtX1pScDVsTHFOTkV1UjFKWlZrN2Y3MkpMWjhCMzY0c2Q2MDBoN04wempYTUxOQ3AyV2cySDFmNlBVbTBwRHM3V3puYV9vdFB1Q0hlQUx4SC1qbUM3RVcwZi1mWTdaYzR4YTVtcFBaaUVWRlMzRzRib2JyWnZ1OHJTSjBiRHNBZVk1Q0E5VTVEaW41ajJYaDl6VDlSbzlvSUZHcWxzNEpUU1pTdDFNQ0dISGtuMnc?oc=5)
-
-### collecte fonds thematiques
-- [Pictet AM lance une nouveau fonds thématique, Pictet-Longevity - Gestion de Fortune](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVFNmQVJ3Q05wWUkyODFfaTFPLVQyckthMXdlMmRGdi14QkxqNVY1ZkZrTjJES1BPZXlzWWxtZXRUczhzY181azNEVzdtd0l1WjA0cFBHTmFRNnI1RVdkdV9pT0hpVnB2WjV2SllqZjFJZ3g3QlhST0hrSldQdmt6eHdxOFAzMHhVb0V1ZEVaSFJ3QlJjUUFITHNHcWJBRFJpVEVxOVlPdTBPOG5TNGxUTkE3VTJoQ0YwYnpUVENkeGNPMmpLbUFWcUZJMnEwclpSN2JpalIyUU1JVXB6U1ZzMmlxNUtqR2RLSWFESVdPZ2lFdw?oc=5)
-- [Les fonds thématiques moins populaires en France - Morningstar](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWRJbkg5ZDhzMXhtZHAxR0Y5VW1pTlNUQ2lnX1J5ZVNSTFNwb2ZRX0ZLSktUUjlaczR0aXVkOHFFX1d2VXR3WkRJdGhBa0JjV0VyQnNzYmJLOXYyTWw4dDdlSVhxTmZWajgtRWVWLVNCR3ltd0pCanhnVm9oekhsOTdiSHRLVVA1NXNCV3puZVlOUQ?oc=5)
+- [Un ETF axé sur un secteur en pleine actualité - Investir Les Echos](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTzNJdWd1QlBiTUJ3SWR6Ql9ua2thcUJfWTU5ZU85RTVySmJPQlU3bjRnNlNzUU5KdHhpX1B6RnhxV0NpaUg5dmlGRjFlcy1OTy0ta3BiYnZoY1M3c1R5X094MkMtYnoyRU84cHRLWlpVLUx5ZlJ4X00xYkx0NmJyLWpMSWFqWmhURjhTT1J5bzlES0o3VHRSZ2gxSWVERDMzeTdVLXdHb01OTXF0NGdIRGNvd0w?oc=5)
+- [Les deux secteurs à privilégier pour le reste de l’année - IG](https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0hMekxKY3RiajBMdlR3NGMzT0dJSWlzZW1hck5IeVJISDVrSi1fUVU1R29TSmI0NUluZW5OeUJkTXFPUlZIc0QyeXBPSlo2VVZvbF9UakxHZTBGd2VWTE9UcnJobDVSbC15bUJPRVJPVUU4bDh2NDV0QXM4c1JYQURBZG4zSzduQWZYbUlvVW1MNWFpbHZXSm05cGFISHBPTmtKbWxSdTJvcFQ1a0VwMjAtZl9ORk8xNXdrLQ?oc=5)
+- [VIDEO - Comment profiter des rotations sectorielles en Bourse ? - Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPMWFoeEw3aTdsS1BVMzdkeWE2YW5sNUQ1cmlZRXhjV0U0QzFnRDJqSlFVV09HTWlSTlYtbTNYMTRKVTRTUmtDZHo3TzBVcXFlckhVQzJrbWFVMDloZ084aEJ1djBtcGdKMVl4RUt0U0FnX1NMQ1BBZjVFSnpZMjBVeGlWX0JCQjdRb2JRSmJGdlh5TWRCQWtrRlhLT2xfdjVkSnIzWUhFb05IWGZwY2RWd2c5UVZIQU1PZWJpZWI5XzhZbFkyeExwUXc5UQ?oc=5)
+- [Le meilleur Portefeuille ETF 2026 (l’ETF World ne suffira plus) - Graphseo Bourse](https://news.google.com/rss/articles/CBMia0FVX3lxTE43d0ZzSHVncGlxTEs4ZzNydnZNNkU3cVBURWpGQTFyNDdBTXlnYUkyUHFOcml4b012aW9aTXIyYml1VFp3UE1lZGNOSUF2Zk1iX1M3d2I0ZkNNX0x2ZnNQR2k4QmpWTDZzUEZV?oc=5)
 
 ### flux ETF thematique
-- [ETF investis en cryptomonnaies : comment ça fonctionne - BforBank](https://news.google.com/rss/articles/CBMingFBVV95cUxNYmt5NUdnRXVObGxWZkFEMU5CMnNVZFpRNk52UmE4MVRPRElLNjJSYlBLeDRIclpMRjR5NVFmSlRWbTVWM21XNzliY194azBUdDM0SlZQZzVUZVFscTZRazlkMWNFV0VJSlR0RFBVdDZlakpjY3lBdUw3cG92eF85RzlyUUJZZnA1YjBweFE3alJHbTFxa0RrME5qYzRQdw?oc=5)
-
-### Amundi ETF flux marche
-- [Amundi lance trois ETF actifs actions UCITS cotés sur Xetra - ABC Bourse](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTkN1bVFCRDYycWF1akdrblN2YWZOTGRHbmo3R2ZjRk9jRW5TVTIyc0xCV2dhOTFCX1UtWnUzOVBKbFZVN2M0WWNyaDJFSm9vVEpCSkxIcktqWWZlSHNvVW9Yem5WYU9pZkJUYkVuTlJKajVNTnpjcE54eF9BWDFpUG1jUUs1Ny1NLUJUU3pjZ3BRTWdRcVNndHRVeVNuSl9Eb3c?oc=5)
-
-### Morningstar collecte ETF Europe
-- [Palmarès de la gestion active : l'obligataire reste la clé du succès - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxPQW9UbGJhYUZTRElpNUlseDlTeDNFOTZ1ZWtkM1JoRWcwM3V3OVVwQ3BadWJ5dTdHYVhDR1ZSSUFZdWFsajJtZ2xYbHUxY3JHUW5aQkl3RFJlNWZSdlZVSHN0Z202TFNOaDNZTGtrREFGUURNQW4wN21yY3RGQ3I3N2YwanpiM195VnF0b2xJRnRsSEZQemNUanBNX1RNOUYyUTg1dXlSTkU3Zm94VlNrSldFTU9nSG5Rbm04eWo4QWFyQzNfRXhV?oc=5)
+- [ETF eau : comment investir dans le secteur de l’eau en Bourse ? - XTB.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvN0RwVzRRTXFTeExPa0g4a2JpdlV5TFlrbHExQkVrRjBXU2V4SE8zZGZzR3ZWN2JBV09jcFBrRVlITW02aWFzWmE1bjI0N1YwVFE?oc=5)
 
 ### L'Agefi ETF thematique
-- [BlackRock dévoile un ETF actif pour exploiter les rotations thématiques des marchés - L'Agefi](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFcxWGVMcFB5RE8xYVBLa3pBNjlTczhiUHRxb0gyNkh0WkhRWmpYaDlVRjZTc2RfT01BUUNJUE1ZZnp4QWRVOUJQSll5bHBvMjFkeUxvQlNjWVZzNTdpeTB5MU9wXzNaaWU2TmF4dHZjXzY0bExGX0RaOTV2a2d6dGZwTmNSQTVlLVdkYzRpM0NjQTlmNEYzWVZOLUF1TnB2S1prVklZT0RoOXVW?oc=5)
+- [Les flux ETF influencent-ils les marchés actions ? - L'Agefi](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkdOODNZY1ZMbXc0U0hlMldMa3lsb0RULXpRUkpIUUdKWGN6dTByc2VJZWxtTkhKNy12SS03MGlWMVRfU1JwQnpNVzdPX0oxSFQzZ3RJaVAxYnZkOXI5dUFXNFE2dlJlSHMxQUNNbWlIbG5QRTAxc0x1Uy10VGtBSy1OMFhvSnJVbEd4YTJGSjZYQnpNU3VMU2lHOA?oc=5)
