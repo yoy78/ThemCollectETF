@@ -1,39 +1,6 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "items": [
-    {
-      "category": "rotation sectorielle ETF",
-      "id": "60f1b2b706d5f652",
-      "label": "Marché des ETF : les investisseurs privilégient la prudence et le rebond obligataire en octobre (Amundi) - Boursorama",
-      "metadata": {
-        "published": "Fri, 06 Nov 2026 14:34:00 GMT",
-        "publisher": "Boursorama"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSEx1UUl1cElzME1leWZUaHIwcWZpU0ZlXzBqMVVfeTR0eS1aUjEwVEFjTU1qZWEtaFNOMzE2bGNkbjBhdHhUR2lYZFNZVzRxOVVQc2FpRVg2cUNLZUY1ZGN0cURhc0Q2QU9CS1B2YjRubWtoaTBUX2hmSzNDOGgzWC00OW5sWVpaRm1fdjludExYbmp2bkhnR0Zqa1R0Mml0Q2pReFFVZjNDbUpjSmNvRDBMaXgxVFlCY04yNHpkS2N2ejEzcHpCZDh6TlR3clFfVVJaUTlab3BwOWY1RUwyVzliNlpwNVFiZGgyVndud3lpZmUtV2M1OURiSzVCTHRxbV9BN2ZXcXoyNWI1Tjh30gGPAkFVX3lxTE1ITHVRSXVwSXMwTWV5ZlRocjBxZmlTRmVfMGoxVV95NHR5LVpSMTBUQWNNTWplYS1oU04zMTZsY2RuMGF0eFRHaVhkU1lXNHE5VVBzYWlFWDZxQ0tlRjVkY3RxRGFzRDZBT0JLUHZiNG5ta2hpMFRfaGZLM0M4aDNYLTQ5bmxZWlpGbV92OW50TFhuanZuSGdHRmprVHQyaXRDalF4UVVmM0NtSmNKY29EMExpeDFUWUJjTjI0emRLY3Z6MTNwekJkOHpOVHdyUV9VUlpROVpvcHA5ZjVFTDJXOWI2WnA1UWJkaDJWd253eWlmZS1XYzU5RGJLNUJMdHFtX0E3ZldxejI1YjVOOHc?oc=5"
-    },
-    {
-      "category": "rotation sectorielle ETF",
-      "id": "79fb8fec6c2c600e",
-      "label": "Cet ETF porte sur un secteur défensif peu enthousiasmant - Investir Les Echos",
-      "metadata": {
-        "published": "Thu, 09 Jul 2026 07:00:00 GMT",
-        "publisher": "Investir Les Echos"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObHJ2REFhQmowakpTYXBmUHg1TkQwM1ZtWWdxdjNLM1hkNDE1RE83bFBVZUR1V1N5ejVXTlNxdnRIenR4VDJlYTRqUEF0ZTR1R2p1UzloUnUwaEJySTFHZEd4eUtnOVNrWGhUZWdaTFdVLUdzSTZhT1pybDgyNTRzVWl0NFJuZEdKNmI0UTYxUnZhN1V1OENweWxZaHQ4RDliLV9tVXZXUUwyZjF5bkFUdm8tT242Q1ZSVmZRWnBCYVRfQmM?oc=5"
-    },
-    {
-      "category": "rotation sectorielle ETF",
-      "id": "8d75ab26472f7c39",
-      "label": "Six actions qui stimuleront la rotation boursière en 2026 - Morningstar",
-      "metadata": {
-        "published": "Mon, 23 Feb 2026 08:00:00 GMT",
-        "publisher": "Morningstar"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRWI1RzZuR3k4TjhHVWRZblF1cUNHSHNZV2lqcDN6RU9aZVpPNWVXYzRrTXFmWDdHaDVlcFlNRkgyYXZNNWJrS3VWdlQ0OVNTZGlYMG9jSkh2MVM3bkFobTgydVZHR0tLRnNVdDBoWGlRdWhXS1htRHpLVVQwLWN2dXdRZk15U0kwbzhFVnFlMHFXTXhsN29SOUpYZmk0dVU?oc=5"
-    },
     {
       "category": "rotation sectorielle ETF",
       "id": "3c704058ded68c88",
@@ -69,17 +36,6 @@
     },
     {
       "category": "rotation sectorielle ETF",
-      "id": "257e419e924356f4",
-      "label": "Une rotation boursière est-elle en cours ? Ces secteurs surpassent la technologie en 2026 - Morningstar",
-      "metadata": {
-        "published": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "publisher": "Morningstar"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQUo2bkZCb1B0eVNOR1FmSHlxcDVRUHQwMnc0MENtN3pjMGNDdEdQaE10T3p2M2RqdGVLak1qaUk2MHlYMFJBZzdxczFUSTA5M3h3SWNlVmRSdHpGbmRBZURYN3Z1MjlwT1BMSWVLYWFhNnF0NUNHSEVJSUpKZ1JYNVhvWXM1YkVWbHVKSUUxN0JjTHVHUnkzN29kcUZaSjQwcWpzLUtOdkVhYzlnazFCN2FvVmtvR0tIS19yb2VNbkxkcm0yTXkw?oc=5"
-    },
-    {
-      "category": "rotation sectorielle ETF",
       "id": "6472f98a7d5801d2",
       "label": "Cac 40 : Cette «rotation sectorielle» qui porte le CAC 40 (+0,8%) depuis l'issue des élections aux États-Unis - BFM Bourse",
       "metadata": {
@@ -88,6 +44,50 @@
       },
       "source": "news_rss",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObWFqd1MwaENZRklsQjlqN3lTVnJUV2hxakJsdXZuNWh5REh3b3hMb1hQWm1sZjc4Zmc1bVZKWXlIamM4aGtreWJVRFZJb3VRLUhiMi01ZURxdDAtVjNJNmtHd2ZwUWRCeHpRV1lNOExRRGNSOTI2VDVpMHZmYWJTamhJM0hNTDcyXzBpLWxkdWxLSjhZa2VXc1RvdmpEOHExOTdhU0dZQmtEV002S2NYVzZ3QU9GZTZwQVl0VFJmSjJQVVpGWEZyT1o2V1BOcDRoNVNBa1RiX1JfLWV3b0RTTl9TNWFnY3FCaGJqWXB2OS1zT3RHZHNBcVVtdHhpeWVS?oc=5"
+    },
+    {
+      "category": "rotation sectorielle ETF",
+      "id": "62a91019cdbdd6ef",
+      "label": "Le Dow Jones surperforme grâce à la rotation sectorielle, IPC crucial ce mercredi - Investing.com France",
+      "metadata": {
+        "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "publisher": "Investing.com France"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcWVUUzVYWmYtZjNUUWk2a3hMV1RqMGVIMTJTT0QtX1pScDVsTHFOTkV1UjFKWlZrN2Y3MkpMWjhCMzY0c2Q2MDBoN04wempYTUxOQ3AyV2cySDFmNlBVbTBwRHM3V3puYV9vdFB1Q0hlQUx4SC1qbUM3RVcwZi1mWTdaYzR4YTVtcFBaaUVWRlMzRzRib2JyWnZ1OHJTSjBiRHNBZVk1Q0E5VTVEaW41ajJYaDl6VDlSbzlvSUZHcWxzNEpUU1pTdDFNQ0dISGtuMnc?oc=5"
+    },
+    {
+      "category": "rotation sectorielle ETF",
+      "id": "c86aef2f754ccb2a",
+      "label": "La rotation sectorielle a-t-elle débuté ? - Les Affaires",
+      "metadata": {
+        "published": "Fri, 14 Nov 2025 08:00:00 GMT",
+        "publisher": "Les Affaires"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzNCWmxzY0R6ZTlwbldPN2tkZmZsMjBOS1Ewd0swa2VqT2E2U3hPamRJemZfWlM5TU9FTGUzS3AzQmszenhBcjlPTTlUblVfc2tjMmJXaGtWdC10Um5UaGhScmxxZnFvdEFmSUpvZ1E4WHF4RE5BMWpFd1drR0NPMQ?oc=5"
+    },
+    {
+      "category": "rotation sectorielle ETF",
+      "id": "b529e4a2d6c90296",
+      "label": "Les deux secteurs à privilégier pour le reste de l’année - IG",
+      "metadata": {
+        "published": "Fri, 03 Jul 2026 07:00:00 GMT",
+        "publisher": "IG"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0hMekxKY3RiajBMdlR3NGMzT0dJSWlzZW1hck5IeVJISDVrSi1fUVU1R29TSmI0NUluZW5OeUJkTXFPUlZIc0QyeXBPSlo2VVZvbF9UakxHZTBGd2VWTE9UcnJobDVSbC15bUJPRVJPVUU4bDh2NDV0QXM4c1JYQURBZG4zSzduQWZYbUlvVW1MNWFpbHZXSm05cGFISHBPTmtKbWxSdTJvcFQ1a0VwMjAtZl9ORk8xNXdrLQ?oc=5"
+    },
+    {
+      "category": "rotation sectorielle ETF",
+      "id": "682471afa36970b3",
+      "label": "Indices stables, titres massacrés : Le piège de la rotation sectorielle ? 📉 - Bourse Direct",
+      "metadata": {
+        "published": "Thu, 12 Feb 2026 08:00:00 GMT",
+        "publisher": "Bourse Direct"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTlJUOWw0TE9JZHU0aEp0bzJtMXBIMHBmd1ZsWTRvRkxyRnZyT1ZESGlvQ0ZmcEh5S3lMNWFVNlhVNS1xRThJV1VVMEJmSXQ4UXJFdUo2N1BNV0Q4cTEwWEFnaV9CdzZ5YS01Y2dfVjRuT1FuOFA5OU1jRWdBa3IxdmxZMzlhVk1hWGRrRklYN1Q2MnJILVpNYWFYazFmOUlPcGREY0dNcUlGOEcxWmlBZVQ2ODJ1c3FPUm1SdjdOcEZHektYOFA4T3FpY211V2U3enFaWl8yWmJpYXFGbTNRTW1vMmdud0xWeGR0c1RUdTk1Ni1Wbk9lUFRKa1JZRjVZV2FVbGFGemNsVHFVOEtLZEdLSjdjMU1XdWVR?oc=5"
     },
     {
       "category": "collecte fonds thematiques",
@@ -124,17 +124,6 @@
     },
     {
       "category": "collecte fonds thematiques",
-      "id": "508e5ab3803482f2",
-      "label": "Gestion thématique : le renouveau des fonds verts - L'Agefi",
-      "metadata": {
-        "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-        "publisher": "L'Agefi"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEpTNzBydUFzNlQ1T2hTcUd5SUpIcTExR1JNdk1zX2Z0Z2tCNVl1RTZYdHZjYVRGVXBXOTlqdkFpd3hJbEJkZFJaUEZyM0xWWmFtWTliNGdMa21lODZsWkxIY21XR19abnNQLVlray1NZmtScTlCYXVsaXdjUG0xcVlrNE9XRUxHV0w1QUIzcHI4WHVRc25uTEhB?oc=5"
-    },
-    {
-      "category": "collecte fonds thematiques",
       "id": "1b5e25fe7bef74c2",
       "label": "Investissement thématique : le panachage réduit le risque - BforBank",
       "metadata": {
@@ -146,14 +135,14 @@
     },
     {
       "category": "collecte fonds thematiques",
-      "id": "4e3815c1abeb534a",
-      "label": "Pictet AM lance une nouveau fonds thématique, Pictet-Longevity - Gestion de Fortune",
+      "id": "508e5ab3803482f2",
+      "label": "Gestion thématique : le renouveau des fonds verts - L'Agefi",
       "metadata": {
-        "published": "Wed, 26 Nov 2025 08:00:00 GMT",
-        "publisher": "Gestion de Fortune"
+        "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+        "publisher": "L'Agefi"
       },
       "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVFNmQVJ3Q05wWUkyODFfaTFPLVQyckthMXdlMmRGdi14QkxqNVY1ZkZrTjJES1BPZXlzWWxtZXRUczhzY181azNEVzdtd0l1WjA0cFBHTmFRNnI1RVdkdV9pT0hpVnB2WjV2SllqZjFJZ3g3QlhST0hrSldQdmt6eHdxOFAzMHhVb0V1ZEVaSFJ3QlJjUUFITHNHcWJBRFJpVEVxOVlPdTBPOG5TNGxUTkE3VTJoQ0YwYnpUVENkeGNPMmpLbUFWcUZJMnEwclpSN2JpalIyUU1JVXB6U1ZzMmlxNUtqR2RLSWFESVdPZ2lFdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEpTNzBydUFzNlQ1T2hTcUd5SUpIcTExR1JNdk1zX2Z0Z2tCNVl1RTZYdHZjYVRGVXBXOTlqdkFpd3hJbEJkZFJaUEZyM0xWWmFtWTliNGdMa21lODZsWkxIY21XR19abnNQLVlray1NZmtScTlCYXVsaXdjUG0xcVlrNE9XRUxHV0w1QUIzcHI4WHVRc25uTEhB?oc=5"
     },
     {
       "category": "collecte fonds thematiques",
@@ -168,6 +157,17 @@
     },
     {
       "category": "collecte fonds thematiques",
+      "id": "4e3815c1abeb534a",
+      "label": "Pictet AM lance une nouveau fonds thématique, Pictet-Longevity - Gestion de Fortune",
+      "metadata": {
+        "published": "Wed, 26 Nov 2025 08:00:00 GMT",
+        "publisher": "Gestion de Fortune"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVFNmQVJ3Q05wWUkyODFfaTFPLVQyckthMXdlMmRGdi14QkxqNVY1ZkZrTjJES1BPZXlzWWxtZXRUczhzY181azNEVzdtd0l1WjA0cFBHTmFRNnI1RVdkdV9pT0hpVnB2WjV2SllqZjFJZ3g3QlhST0hrSldQdmt6eHdxOFAzMHhVb0V1ZEVaSFJ3QlJjUUFITHNHcWJBRFJpVEVxOVlPdTBPOG5TNGxUTkE3VTJoQ0YwYnpUVENkeGNPMmpLbUFWcUZJMnEwclpSN2JpalIyUU1JVXB6U1ZzMmlxNUtqR2RLSWFESVdPZ2lFdw?oc=5"
+    },
+    {
+      "category": "collecte fonds thematiques",
       "id": "f983288c0c2e710b",
       "label": "Les fonds thématiques sur l’IA sont de nouveau populaires - Morningstar",
       "metadata": {
@@ -179,25 +179,14 @@
     },
     {
       "category": "flux ETF thematique",
-      "id": "60f1b2b706d5f652",
-      "label": "Marché des ETF : les investisseurs privilégient la prudence et le rebond obligataire en octobre (Amundi) - Boursorama",
+      "id": "3589b81916249afd",
+      "label": "Investir dans les batteries, l’hydrogène ou la préservation des océans : comment les ETF verts ouvrent de nouvelles perspectives aux épargnants - Challenges",
       "metadata": {
-        "published": "Fri, 06 Nov 2026 14:34:00 GMT",
-        "publisher": "Boursorama"
+        "published": "Sun, 15 Nov 2026 07:00:00 GMT",
+        "publisher": "Challenges"
       },
       "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSEx1UUl1cElzME1leWZUaHIwcWZpU0ZlXzBqMVVfeTR0eS1aUjEwVEFjTU1qZWEtaFNOMzE2bGNkbjBhdHhUR2lYZFNZVzRxOVVQc2FpRVg2cUNLZUY1ZGN0cURhc0Q2QU9CS1B2YjRubWtoaTBUX2hmSzNDOGgzWC00OW5sWVpaRm1fdjludExYbmp2bkhnR0Zqa1R0Mml0Q2pReFFVZjNDbUpjSmNvRDBMaXgxVFlCY04yNHpkS2N2ejEzcHpCZDh6TlR3clFfVVJaUTlab3BwOWY1RUwyVzliNlpwNVFiZGgyVndud3lpZmUtV2M1OURiSzVCTHRxbV9BN2ZXcXoyNWI1Tjh30gGPAkFVX3lxTE1ITHVRSXVwSXMwTWV5ZlRocjBxZmlTRmVfMGoxVV95NHR5LVpSMTBUQWNNTWplYS1oU04zMTZsY2RuMGF0eFRHaVhkU1lXNHE5VVBzYWlFWDZxQ0tlRjVkY3RxRGFzRDZBT0JLUHZiNG5ta2hpMFRfaGZLM0M4aDNYLTQ5bmxZWlpGbV92OW50TFhuanZuSGdHRmprVHQyaXRDalF4UVVmM0NtSmNKY29EMExpeDFUWUJjTjI0emRLY3Z6MTNwekJkOHpOVHdyUV9VUlpROVpvcHA5ZjVFTDJXOWI2WnA1UWJkaDJWd253eWlmZS1XYzU5RGJLNUJMdHFtX0E3ZldxejI1YjVOOHc?oc=5"
-    },
-    {
-      "category": "flux ETF thematique",
-      "id": "0d0730e1ec2891fa",
-      "label": "L’impressionnante percée des ETF actifs devrait se poursuivre en 2027 - Allnews",
-      "metadata": {
-        "published": "Wed, 11 Nov 2026 06:00:00 GMT",
-        "publisher": "Allnews"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTWRuN2ZsVl9Kd2xfbEYxbFpaajdfTlBiY0VKc3p0ckdwODVjc3JZRmVvTmpzQXRJLXFKVEpEQmFrMVlvdWpYVVZ4a2dLWDFwV0RkTWNTV2x0aFVYeUJMeGpSN1ZidE9ycWhyWTNWa0JpS2YydGVoNUVDd0tXUkEzYmYwNHFWQ1BzcG51MFNIM21WdE9uUjZsY2xuQzRNb0g4ZHgwTnJLZEZVUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQaGpETEZ5SGxlTjQzQXhQNUdBeUhvRnZQN2o5b2QzWXlOV1o2REhhZURQZUcxRkM4R2ZBa0tmaWUxLVRYMEFDd19ESXJQaGNBS1V1S3o1WUNocnE3Z0lqeDVuTHlkMG1rZmF6dGpqaUhwbVZ3Q2NWTDF0Y1VaNGJMRWFBZ3Q1TGJQbHYzRWF1U3Y0QmZNbmRaT0QzdHRxQ1gwc0JjM01JS0dmeks3Z0pmTHRGY04ydWhNRFhRa3R1WTk2dllnMS12RlZJZkhrZXphUk9rNjVRUDFRNkRTNkVnM25TeVlBN1l5OEJvb19ReDdWZklHNHdXdG1xbDdwSFB0cER5YmJ2NHpqZXFVa2RGb2RkWmpUMnBJZ0F6b3BR?oc=5"
     },
     {
       "category": "flux ETF thematique",
@@ -212,14 +201,25 @@
     },
     {
       "category": "flux ETF thematique",
-      "id": "052f249b6e286e5a",
-      "label": "Amundi renforce son offre d’ETF thématiques - L'Agefi",
+      "id": "ef6a5dbefa114527",
+      "label": "Amundi renforce son offre d'ETF thématiques avec trois nouvelles solutions - About Amundi",
       "metadata": {
         "published": "Tue, 13 Oct 2026 07:00:00 GMT",
-        "publisher": "L'Agefi"
+        "publisher": "About Amundi"
       },
       "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sMmVSVWtYMkFvQlAxdE94OEZkVGR2Z2ljbm9QYlotR1c4V0Q2YTFTRVpHSUxoNmpWNHVWNHd4cHVKUGU1MjhlZUpGNzR0SVZiUWt6RXYxajhwWXBTSUhMNlhZSHNfU280NWR3YWxWMEJLZzU4VVE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOWkwNkpDODBycGhDdU5EV24wbklnNjZMcVBkVUtBeFBmR0NEcUx5T2FfQzBvNDRfRjIzWk1VdS1kTDJON1dVSU1mYV9kNXVXV3VYcTlpQi1SLURvam9td3ZlMWNJcWFNeGMxaWRQVTBrN0huaVo0X3lGMFpxSUt6QTZBRE9pZzdCWXlPc2lzVVlUWXVwVHpFZy0yQWd4MndKZ0lIZFBQUlJYOHBYTHNsbW1fczdzOUM3dVJvQ1B5Q3dYeDhKYWVxU3dBWHdhTzhtTWNz?oc=5"
+    },
+    {
+      "category": "flux ETF thematique",
+      "id": "d67d4b3730d42038",
+      "label": "En portefeuille : Quels ETF thématiques dans le contexte actuel ? - 16/10 - BFM",
+      "metadata": {
+        "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+        "publisher": "BFM"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUWhMVmstLXJKWWx6X1kwR21lMEVMU0FWYng0aU1HcFRHbkpmbTBPTjl5T0tpNXd1Rmp0WUtwNlNEUGxWbjQzckVEVVg1Yk96RnhOd29OWHVTUlU0WVhZUV8tVHRISWgzQWt4M1hvVWFkSnlUdnl1Uk5nTWNMclVBLUxkbzU4OXUwRlpnRnpsamF2bS1oanRodkkzM3NLd2ZZU0I5aEQ2VWl4cGtKOTRYZmFpTWJBWUVidTJ1WHVrNFdIVWE2NUoyblpUUHNFNDJOMmxqdUlaR1prU1N4TUVhUEtfZDM2YjVpOTNYZnI1WHRreU5raTRiOWN5QQ?oc=5"
     },
     {
       "category": "flux ETF thematique",
@@ -231,17 +231,6 @@
       },
       "source": "news_rss",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOTDR1ZVREZUNsakZyRklTMUdhMk5HNmlpS2NqSHdlZHk5c01pZUZha1M4RE1wdlVxd3JSb1BWMEdnVm1aZm4tU1FGWWQxSnZocFlGeHY5dmY5Q3BTS2tFOE9VVFRsUHRCWXVDVDQ0WjNlcFZUV3A4M0J4Z2FiSFNOTWlacGlhZllFRWFPQjE2MmM1QjFTVXBPRmFtNHJYUnk1cEswbklOY3ZDQVZFamlsc0xrUFIyLVRWRHkyN3dXNkxTVXNHWXRLRWluWlpjRGFiVHpyY2hHNnpJLU1jT25PWGcwRWhwTjV5RUNjY1pzanM1YjJzdXpFTVpLYUE2cDNOY25LTWdOQ1RpN1VDSXZVUFlwQXNjell5YVFv?oc=5"
-    },
-    {
-      "category": "flux ETF thematique",
-      "id": "aa22ab3de9eae37b",
-      "label": "ETF thématiques : sont-ils de bons investissements ? - 23/10 - BFM",
-      "metadata": {
-        "published": "Fri, 23 Oct 2026 07:00:00 GMT",
-        "publisher": "BFM"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdzFrdDJQZVphSUJFbjBLZ2VmSkdSMi1uYS1QSFRPbXJHT3N0cTZqOFkwZ09FYW92ZWM5TTBqX3N1ekI4RmUtNm56WV9fekJLT0lGMFZ4MW9KUEgyb2tENnlpQkx5dVJsMkJ6bk5qZVRKbkc1alI2YmQxS09yRHF2ZlVwZHpLSVFsdk5sYUR5dHBiZy1QUWRVWVoxM05VS0JTV3RwSl9zMFEtQlNsQnFXN1Q0T3Fkc0FYUzdNUldQSEZTalM2djVHUjhHWTAxcVRNQkFkQmVKaw?oc=5"
     },
     {
       "category": "flux ETF thematique",
@@ -264,6 +253,17 @@
       },
       "source": "news_rss",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0poekpjc0dPbHlaamVNSzl5SUpxUUFVczI4d180WXVRdi1ZWWdwVTZtOG9wVTg1ZzlneWFjX2N5S3JXLUNRSkFSRGxYZjI1dE1fUUhwb0htaTRqX3lBWWJFWGVjMENDSG9BMDYzdTZzM25mLW81VUEwYWhUbFBFYkRzajNYVkw1R3I1QllvWFYtSDYzOTdGUHZLR3RuUHpCTGg5VW9VVEVGODA1XzRmV21CSGo4dkF4?oc=5"
+    },
+    {
+      "category": "flux ETF thematique",
+      "id": "28f2a84c77c51676",
+      "label": "Global X lance un ETF dédié aux sociétés minières aurifères responsables - Option Finance",
+      "metadata": {
+        "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+        "publisher": "Option Finance"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY2tKTE9TUzFOSlExQUhwcG9RSnRNLVZxbTRDWGJoU1FYRlhBVVNzOUpFcU1xdEZQdUpGRWpDU2F2OGNPd1pTVVZ5djlDZlBkNWN6NkR2UzZsbTZvb1RaNFBIOHlUR28yU1dvb05Hc3Q3NWFyRHExX0JSeXZNb1NOXzFaTUcyaDJuTURSUDBRSzJuZHhUbVh5dm0yUk10QmhOaVVfNU1hbnhXVTRaVDBjR1B1NFJoeEctVHBpWmp0c0RKWDNSY25fSnBHcWVhbjQwbEFnNHVfMzl5TTFpQmVF?oc=5"
     },
     {
       "category": "palmares fonds thematiques",
@@ -355,25 +355,14 @@
     },
     {
       "category": "Amundi ETF flux marche",
-      "id": "0e7c550c8c0fb622",
-      "label": "Marché des ETF : les investisseurs privilégient la prudence et le rebond obligataire en octobre (Amundi) - Option Finance",
+      "id": "9729137889a6f3b5",
+      "label": "Marché des ETF : les investisseurs privilégient la prudence et le rebond obligataire en octobre (Amundi) - Bourse Direct",
       "metadata": {
         "published": "Fri, 06 Nov 2026 14:34:00 GMT",
-        "publisher": "Option Finance"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONGJRSEhVWFFqeTd2QWxaMXJ6M0l5cVc4b1JpTklNQTdfNnU4Z2VoWGNHYVRKTlg1LTdkczhwd3pSUDEzRTZvSjZuU1N1XzlBSjI4R2ZzOTk5YjV6MmJPZkpKSjdTSjNVUWt4WGZKU281T3lHX1NRcW5CclhWTHpaY2FTcmNkVG8zY0xRSG9ySWswdzlMUndXal9XSVFRUG9STVpKNV9pa1BsQ3hILU00TkxyMmpjdEd3SE9ONmkyd3VMVzBfN0w0RldwbmdRZXhldVphYzRKOTFBaTRLTzNyMVliNGdrWlV6emRKMVVTb1l2WjVVNXctRTVJWU1iX1BFbkJfMQ?oc=5"
-    },
-    {
-      "category": "Amundi ETF flux marche",
-      "id": "523b2795efd4c554",
-      "label": "Amundi lance ses trois premiers ETF actifs sur les marchés actions - Bourse Direct",
-      "metadata": {
-        "published": "Fri, 23 Oct 2026 07:00:00 GMT",
         "publisher": "Bourse Direct"
       },
       "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNcGpuM3ZZa3VpOVZtUjVWNExnTnU1d3dPOU4tN0k5R1RvejBXX0ozVjZrYzBvRXM0VWh0ZDh1ZWxsM21GTGR6WDBvNnBvd1BvdkxXdGVpODlKSGdlZEFGRG1nTkFmT3FZS3pMRDVoR01LaE56VlVEVW9zRUZxRzJOLWgzcVQwUWotbmVZdEJ0NDV4ZDhYWU1QMl9LUzNzUHZydEFIandWWThzcjRZZGFBTzZzODZ2RUpVNEZoQ3RNOVlIREhmdGFEYUlkbzljamFESF95OUFvWXFya2pjZTE4WEZwdXpfQ19uQkdRZmhRNnR2Yzdpcm51UFFsay0xMkhZSGd4b01jQjNfUHpzb08wdURWTzhDS1V4WmVTWkt2VQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNcWs2OTJBVFlCNF9vaV83TVpQRXhuNEh0NmJSNWVrNS10NnRyaW1rcGtFSmJiUkhtaUZQc3U2S2dYLVNfOEFHMmtFOWx0SjFmdVVaVm83NU9QaXFaWnAxc0RjUGtCMGdvMmdpcjMxdTVuT0pUSnU3Tm5mN0Q5WUp6ZVJGTmlWcjFqa2JEVnhyemR5R1QtS0Jyei04SkdCS005MXY4eXczOU9JVGFPcWE0N1YzcEtHODBxQmNzaDhUWjBHY0x2SmRqRDgzanA1Q1JmSjktSC03b3RodThZWjFOTXdyM0pfNkRRVVJTUjRldHBTV1d6TmVLUnlLOGZwZ0UtTnNnLUVtU0RGWUUwQUZXRHI4bDVESnJLRHRaWTRmWDRUOGZIWTRNZEFlY0N5S2VUYmRMempONVhYc3FQblNSeDN6Zw?oc=5"
     },
     {
       "category": "Amundi ETF flux marche",
@@ -388,14 +377,14 @@
     },
     {
       "category": "Amundi ETF flux marche",
-      "id": "a6fe3ef83958742e",
-      "label": "La ruée des particuliers enflamme le marché des ETF européens - Les Echos",
+      "id": "010dd59b593b4bd2",
+      "label": "Amundi lance ses trois premiers ETF actifs sur les marchés actions - Bourse Direct",
       "metadata": {
-        "published": "Tue, 03 Feb 2026 08:00:00 GMT",
-        "publisher": "Les Echos"
+        "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+        "publisher": "Bourse Direct"
       },
       "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUW9LZ0wybjMtZ0pwN0UwWkhJLVhFcmRTdkxOcjZFQkZRdGw1d3o4Z1hJUEtMMXkxZHlpcWNVbUJMaXgxMWR2NW5fZ0dTS1ByYVZkTnNmNlh2S3FvYUNSdm1ZSURtcWtWdWdIN1ptZzczX0M5eVc5U0taM3BKb053czdwcHB2dTI5OU9UMTdranZZS2JDdDdDM2N3OUNRTWR2OXZfSm16NTU2UTBxVmxOWVpCc1RzSWZURDdBTHBSZmNhdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOWFU3b25UWHlLSkU2U21KNkpLcG1RLWZJb1FVbGZnZWdoVml0RWhtaUF6M2pfel9zdFVidV9ETXdtQ1Y3NV9TWkpiZktkamJxcGxPUjZiVHdVdy1WY0Nnc3dqNG5jYy1lQnl0M050aC00bTF2M3p6UVpVeC1VUlZBbkFtVGxTd3dFRFo0bUFDQTAzSFlXbHU0TTNRbHVKZlBZS2VpVzBybncwc1l1QTZUemlVM1FGRmN1RlFjdFA4eXdIY3lSRjE5TENRa1BVTGkwWGNnLW9oaktCN2Y2RjNQWEhxOUh4alhYMHhlbWluRnVEQWJDNjRvNWd5STU5MUh1Z0NDYzBOVnZwd0tIWDBQWTVhR3Qydw?oc=5"
     },
     {
       "category": "Amundi ETF flux marche",
@@ -410,6 +399,17 @@
     },
     {
       "category": "Amundi ETF flux marche",
+      "id": "6ba559ed0b346289",
+      "label": "Amundi renforce son leadership sur le marché européen des ETFs - About Amundi",
+      "metadata": {
+        "published": "Fri, 13 Feb 2026 08:00:00 GMT",
+        "publisher": "About Amundi"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNVBSY29mWTUyOTBIbG1QbTRhUGpidXRvd1Q5VW1kWU4yMFoxOUYzUk1mRXBrMWhFSGZJYjBZN1c2NkdCMm5FRFdkd3duVUN6dDdfQlZLeGdPRFNxR2k4Z1FaNWRyR0Z2MjlqZ2xpbm90YnhkX05LTVY1Vmg3YmNRM3pSLWxNOC1zeHFGeGlScEVCdUx4YUNPRV82dGhlOHNXOXdVMTI3andsWmpnQW5KZjBxbEhyZkFiRmI2Q0pvZE9jQVE?oc=5"
+    },
+    {
+      "category": "Amundi ETF flux marche",
       "id": "b8078fe67a0f49cf",
       "label": "Amundi : le marché des ETF UCITS porté par le dynamisme des actions durant l'été - Bourse Direct",
       "metadata": {
@@ -421,25 +421,25 @@
     },
     {
       "category": "Amundi ETF flux marche",
-      "id": "526ddbfef16bddb8",
-      "label": "Top 20 des ETF éligibles au PEA les plus achetés en mars 2026 V0 - Easybourse",
+      "id": "ec0048c124983df6",
+      "label": "Amundi élargit sa gamme d’ETF actifs - Allnews",
       "metadata": {
-        "published": "Fri, 03 Apr 2026 07:00:00 GMT",
-        "publisher": "Easybourse"
+        "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+        "publisher": "Allnews"
       },
       "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWZkLWt1VWlabm13N0xYbWVFNmJJd0Nrdm1LX0VoUFBnNVVoazJvVUpuQWtmNURaamN6NVVVMTgxeGJSNmNRMF9MTkQxYUlqRXhDdndLVFRvOHNmX0xVVEVPR3dDUlBGbHBjRXRJVTFjZnBnV0NLV2RhbTBoeTNnaWJvREVfbURJZXNWVHZ6dl9kZG4tSVBILXIxY25mVmg4Qm9LOGtBdXlwOWM0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb3hrcEZ5RFB0MmVGdzE5SWdaa2VLaERqcFNGUmpiZHdORjJvT1pSTmlJVnZtNFhKRl9HZHRlVFgtclRvNVpIYkk3QkF1VTd5Z2JHQlNMcHJlRmlaakRGTWdTdV9yVWVzSzA3SHhORVJZV290bzUzUDRFZjRYR1dobXVRbi1rV29zdDVFYWFoYjB2TUk?oc=5"
     },
     {
       "category": "Amundi ETF flux marche",
-      "id": "18ee864547c42095",
-      "label": "BlackRock et Amundi dominent la collecte annuelle sur le marché européen des ETF - L'Agefi",
+      "id": "a6fe3ef83958742e",
+      "label": "La ruée des particuliers enflamme le marché des ETF européens - Les Echos",
       "metadata": {
-        "published": "Mon, 12 Jan 2026 08:00:00 GMT",
-        "publisher": "L'Agefi"
+        "published": "Tue, 03 Feb 2026 08:00:00 GMT",
+        "publisher": "Les Echos"
       },
       "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVpzSURkMzJtVFhWdkRpNHdSVWZWV29SdWc5bWM4UUJuQ3FINWs5cGlfdmVlWmtqaXQ3Z3Bwa1VkbWJXb2NYRTNXcnZwb1RMOEFUT0FxZjNoQTg0MHdIOHd2QUU1aWJBUjdOUE5iS3hhZHZBa1J0SFV3RXpaemh0aFhaR3NpNGVGWVZMMkdGYmpjQm1xZk1wbmtWZE0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUW9LZ0wybjMtZ0pwN0UwWkhJLVhFcmRTdkxOcjZFQkZRdGw1d3o4Z1hJUEtMMXkxZHlpcWNVbUJMaXgxMWR2NW5fZ0dTS1ByYVZkTnNmNlh2S3FvYUNSdm1ZSURtcWtWdWdIN1ptZzczX0M5eVc5U0taM3BKb053czdwcHB2dTI5OU9UMTdranZZS2JDdDdDM2N3OUNRTWR2OXZfSm16NTU2UTBxVmxOWVpCc1RzSWZURDdBTHBSZmNhdw?oc=5"
     },
     {
       "category": "Morningstar collecte ETF Europe",
@@ -473,17 +473,6 @@
       },
       "source": "news_rss",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbm1wWkY2VzZqdEwyTUtObDFWbUxEMG9PZm8wdzVxcERwRG9zODg0Q0pHZWNWbHp3S0VZMDgxOW9LVE5LZ200WDdDRUw1OTVhRTF3U2NlTmFta2kxbkpJU25QSzdiSW9pTUdWOV9YajdYUlJiZDc3dWRuaE1Ca1hqTHRJZGZMZkly?oc=5"
-    },
-    {
-      "category": "Morningstar collecte ETF Europe",
-      "id": "133ab858e2ecb7d2",
-      "label": "Les ETF actifs vont-ils conquérir l’Europe ? - Morningstar",
-      "metadata": {
-        "published": "Sat, 19 Sep 2026 07:00:00 GMT",
-        "publisher": "Morningstar"
-      },
-      "source": "news_rss",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTZDc1FmZlB0cGk0bldsOUJRYWRYQ0h0V294YnlYR3ZjRmJUYUdXM2N0OF9xY1RsXzJ5cFhFQkdKNWFUbVN0bTRjVFh1SERoX0hmWXhuQUp6bHJQdGVkN2FfbERvZ2dhc0lva2t3UHY2N2ZjNTJ2Q3N4XzFJUkdrLXZwOXI?oc=5"
     },
     {
       "category": "Morningstar collecte ETF Europe",
@@ -528,6 +517,17 @@
       },
       "source": "news_rss",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNG9EUUVWRm1xUW5YWXBpQjNwTlc2OUlpVTVUOG9BVFBIeFp6MktMM2F5NXVjS2RxVGNVUEx0LXZPU3BONlFhdnloVFh1VW9SNjhLNnZrN0pnNTcyd0tFTThYTkdoYlJfbUROanM5TC02dGFwekNZeElfQTRpeGN2X18wb1FxU2U3MFRQRGhPRnd5dHRGdmZ6eFd2QmdjOXoyUTFHZ3lyc2w4aWUydWlMaFVMVVF5WU05ZVNRVExQSzVWUlRPdjE5R0JfVndiVTJTdDdHQUtjUQ?oc=5"
+    },
+    {
+      "category": "Morningstar collecte ETF Europe",
+      "id": "5538d15ffb365461",
+      "label": "Fonds ESG : une collecte en croissance dans le monde - Morningstar",
+      "metadata": {
+        "published": "Tue, 19 Apr 2022 07:00:00 GMT",
+        "publisher": "Morningstar"
+      },
+      "source": "news_rss",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHk3VU8wMkw3VkRycVU1bmM5ampMaDg2SzZHRXNWZVZLa3JCci0ydWlwSzFJRzZBS2dhZzF3NEFOdlJ1LVpOazlTU2VxU1o3U0d5aVpkbnBvNVk0ZmRWdl9BbHY1Y0hfZVNRYWJ1bWsxZ0d2bjhOSV9Ld3Z0dkhVeXdSYm1rTDRFVDEyUHg4MVVjZTFvSWRsSy0xYjJFTzNKSXlCMWtQT2lDanM?oc=5"
     },
     {
       "category": "L'Agefi ETF thematique",
