@@ -1,16 +1,16 @@
-# Digest thematique - 2026-11-19
+# Digest thematique - 2026-11-20
 
 ## Signaux faibles (actualite)
 ### rotation sectorielle ETF
-- [Vers un rattrapage des « mid caps » américaines, l'ETF à privilégier - Investir Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxNYnVlWHZvVzRtV0pSY2lXQXh3VF82QTdhWkpqOFZQQnBmNmlBeDQzUmI2M3E3a3lsejBBd3Vjc2Mwb2dQSm9YOHZYenl6N19sQ1o2T0Q4cTF0UTJKSWMybm5WdDJtblFBTmZ3VGJsenZlU1QzbTV3RjNPUXFaX29TcHVhWkZFbW0zNmVua2ZrazYxZExYM1lWLU44NE81Tm51OTNQRnZOT1NibHkzQjhTQ05YZjZBWS1sbjY3LWh2U1IxUVh3M282UV8zVQ?oc=5)
-- [Le Dow Jones surperforme grâce à la rotation sectorielle, IPC crucial ce mercredi - Investing.com France](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcWVUUzVYWmYtZjNUUWk2a3hMV1RqMGVIMTJTT0QtX1pScDVsTHFOTkV1UjFKWlZrN2Y3MkpMWjhCMzY0c2Q2MDBoN04wempYTUxOQ3AyV2cySDFmNlBVbTBwRHM3V3puYV9vdFB1Q0hlQUx4SC1qbUM3RVcwZi1mWTdaYzR4YTVtcFBaaUVWRlMzRzRib2JyWnZ1OHJTSjBiRHNBZVk1Q0E5VTVEaW41ajJYaDl6VDlSbzlvSUZHcWxzNEpUU1pTdDFNQ0dISGtuMnc?oc=5)
-
-### collecte fonds thematiques
-- [SCPI diversifiées ou thématiques : pourquoi la tendance ne fait pas tout - Gestion de Fortune](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR2Q0b2pBRWNPaC1QM0l2OHpiRW1WOXdOOUtvMy1TaWVJSHJfRTJOLXUxc19wTUh4ZTJFSW94RDBibjNnSlp1NzMtZTcwTGtLNVZfTDl4R0pPZ0paOXg2ZVBZbWVVbHpvSE5TeWxrdlJIVERKR0ZaeVhSelZ5Uk9fRUxfRjJxRkYyVWZQUDFKXzQyRk1HdEgyWjBkT3ZGa3ZpOFFPeHhMUktDMXZidDdGWXByOFRiUFNROUNRSVlsMk5CNlMyTXlnWHhrdDNLTGhaUVJ1LXVSN1dWZG0yQ3dSbGJ5MWE0dmlPbldwMk5R?oc=5)
+- [VIDEO - Comment profiter des rotations sectorielles en Bourse ? - Investir Les Echos](https://news.google.com/rss/articles/CBMiywFBVV95cUxPMWFoeEw3aTdsS1BVMzdkeWE2YW5sNUQ1cmlZRXhjV0U0QzFnRDJqSlFVV09HTWlSTlYtbTNYMTRKVTRTUmtDZHo3TzBVcXFlckhVQzJrbWFVMDloZ084aEJ1djBtcGdKMVl4RUt0U0FnX1NMQ1BBZjVFSnpZMjBVeGlWX0JCQjdRb2JRSmJGdlh5TWRCQWtrRlhLT2xfdjVkSnIzWUhFb05IWGZwY2RWd2c5UVZIQU1PZWJpZWI5XzhZbFkyeExwUXc5UQ?oc=5)
 
 ### flux ETF thematique
-- [Les investisseurs toujours favorables à l’IA, mais nettement plus sélectifs - allnews.ch](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkZLWEY3cFN3YmVyVGRZVHFOenZRYllOc1hxZFJWOEZEcU5COFRxelBDTWpBUGNsbjZKWE9DdGJWcUQ4NG4tUF9sUGxrTEktck85eS1SUG1MS1dQTUt6cFZWbERHanZqa0d0SURzSFRsV3FDZVk0eWdUZmZKQzNVdC1udVk3ZFVLWTlhYUhuNUNIRjJKcEJmM0QzMW5LaTlob2RRMUxHZFVCeGdSMGFhekFwNDNlaXp4NzJz?oc=5)
+- [ETF : Les flux ne mentent pas - UBS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnVqbTdKSm1pUnY2M2xmZWFjNDFqYVQwR0Q4elpSOHoyTUwzWC02RldCSm5KdDdBckZYSEZPeEhYS0doc1ZDTktoVENXTEh3Q1BGMW1jTVE5V0NzUVJFSE5MUWRoTkVoMWNIelQ5ZEJMQ2pDdUZrck9PUlI4VHk2OVJXakVBRG1UdU9pYU5NWWF5dVk4N1kzLWZtYnBObWQzQWdlZ2QxOC0zaWE5ck94Y2lrSTJGaGxt?oc=5)
+- [Amundi renforce son offre d'ETF thématiques - Boursier.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPak1hLTRwb3VFQ096eG1vUERxRWJGUWlLTG9iMzYwcTlGTXd2elNCWFhnaHBFYzFRSTVfTFpUVllZekdyUFItb0c1NWZTeWhad3VxSEwyaWtaSmVQSmVxOTJ2Um5QU3FlWWdYak9zbFR3S2I4OEU3bzVzSWNkS3V5RGNnaWtMXzNoaktUN3pzOEREN1cwRFNXQjBQMldzNHRxemwyMDlDU29rZ2c?oc=5)
+- [Amundi lance trois ETF thématiques axés sur l’IA et les technologies du futur - ABC Bourse](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0poekpjc0dPbHlaamVNSzl5SUpxUUFVczI4d180WXVRdi1ZWWdwVTZtOG9wVTg1ZzlneWFjX2N5S3JXLUNRSkFSRGxYZjI1dE1fUUhwb0htaTRqX3lBWWJFWGVjMENDSG9BMDYzdTZzM25mLW81VUEwYWhUbFBFYkRzajNYVkw1R3I1QllvWFYtSDYzOTdGUHZLR3RuUHpCTGg5VW9VVEVGODA1XzRmV21CSGo4dkF4?oc=5)
 
-### Amundi ETF flux marche
-- [Rebond du marché des ETF en avril – Analyse des flux par Amundi - Allnews](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXdTeTFzU1d3U0U0eFcxaWxZbVVxMjVyZW5TSUtGY3hiQ2xXaUVqVXNqZmp5MC1VeWo1TGhXVlpDWkdPYTQ0V205SmRRUHJiRWRyLWt4eGV2ZlVCdEFhZkFTR040TkUtRHhvaWhEM3NCUEF5NXJhcHFLdDJ6SDZyTDdSaU5HdVFLdXc0Nm5jYXVtTHRscDJBN0pDMXBDajhtQUF0Q3dWek1UWUlNMnN2THNfNW1ncXc?oc=5)
-- [Top 20 des ETF éligibles au PEA les plus achetés en mars 2026 V0 - Easybourse](https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWZkLWt1VWlabm13N0xYbWVFNmJJd0Nrdm1LX0VoUFBnNVVoazJvVUpuQWtmNURaamN6NVVVMTgxeGJSNmNRMF9MTkQxYUlqRXhDdndLVFRvOHNmX0xVVEVPR3dDUlBGbHBjRXRJVTFjZnBnV0NLV2RhbTBoeTNnaWJvREVfbURJZXNWVHZ6dl9kZG4tSVBILXIxY25mVmg4Qm9LOGtBdXlwOWM0?oc=5)
+### Morningstar collecte ETF Europe
+- [Performances des principaux ETF disponibles en France de 2025 - Morningstar](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRjh6SnRKNUFxcm1MYnRNM1A4clByYVUzbENDeWtJcDUteWFMNDlHUjVIcmlxeE5McVVhODZ4VWpzTWQ5bFpNVHNBaHRjNzFOX0lrb0RpZ2RHQU1mX21wcnhWTEZuM0lMQnVsY2VrTEdEZjNvcWRQS0VmTTI4dGlmVk53RFVSaGY3OTRDQUFFXzRYVEZZdktZcFVMWDkzeGdK?oc=5)
+
+### L'Agefi ETF thematique
+- [Les fournisseurs d’ETF misent sur le renouveau des infrastructures européennes - L'Agefi](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDZELVV2czFZQ3JmVVExQzN5eWk3T1NYZ1JBUHRpajhrcy1JTjdsYThQamZMdk54bHNoSnlKWUpjZVVVdkVyeTJHYkt2MlJrQ2wwNk80V3IxM0RwSDdXZ3pOc3FUV19GdC1CcFA2c1J4bWxFMUhpMXFQaTV0bnk4eXROZDBfSEVWZ2xzaE54Y2dTVVF4RWRrWFk3UWtSWjdsLVI1Sg?oc=5)
